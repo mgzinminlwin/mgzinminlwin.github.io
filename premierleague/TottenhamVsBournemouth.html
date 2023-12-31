@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+			 <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tottenham Vs Bournemouth</title>
+  
+    <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet"></link>
+  <script src="https://unpkg.com/video.js/dist/video.js"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+  
+  <style>
+           
+      *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Montserrat';
+}
+      
+      body{
+      background-color: #fff;
+      text-align: center;
+      
+      }
+      
+      .Header {
+  align-items: center;
+  background: linear-gradient(to bottom right, #8098ff, transparent);
+box-shadow: 0px 3px 0px 0px #171b2d;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  display: flex;
+  height: 80px;
+  justify-content: center;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+.Header.has-mobile-button .MobileNav-trigger {
+  display: flex;
+}
+.Header-inner {
+  display: flex;
+  justify-content: space-between;
+  transition: height 0.4s ease;
+  width: 80vw;
+}
+.Header .mylogo {
+  align-self: center;
+  display: flex;
+  height: 80px;
+  margin-right: 60px;
+  width: 200px;
+}
+.Header .logo img {
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+}
+.Header-nav {
+  display: flex;
+  flex-wrap: wrap;
+  height: 0;
+  justify-content: space-between;
+  max-height: 105px;
+  max-width: 940px;
+  overflow: hidden;
+  width: 100%;
+}
+.Header-nav-item {
+  align-items: center;
+  align-self: center;
+  color: darkblue;
+  display: flex;
+  flex-shrink: 0;
+  font-family: Lato, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  height: 100%;
+  line-height: 32px;
+  margin: 0 40px;
+  transition: font-size 0.4s ease, padding 0.4s ease;
+}
+.Header-nav-item:last-child {
+  margin-right: 0;
+}
+.Header-nav-item a {
+  color: black;
+  text-decoration: none;
+}
+.Header-nav-item:hover {
+  color: darkblue !important;
+}
+.Header-nav:hover .Header-nav-item {
+  color: rgba(0, 0, 139, 0.5);
+}
+@media screen and (min-width: 481px) {
+  .Header-nav {
+    height: auto;
+  }
+}
+
+.container {
+  align-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 82px;
+  justify-content: space-around;
+  width: 100%;
+  
+}
+.container .card {
+  aspect-ratio: 16/9;
+  background: white;
+  background-position: center;
+  background-size: cover;
+  border-radius: 20px;
+  flex-shrink: 0;
+  margin-bottom: 10%;
+  width: 100%;
+}
+
+.MobileNav {
+  height: calc(100% - 55px);
+  left: 0;
+  pointer-events: none;
+  position: fixed;
+  top: 70px;
+  width: 100%;
+  z-index: 9;
+}
+.MobileNav-inner {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-width: 100%;
+  overflow-y: scroll;
+  position: absolute;
+  right: 0;
+  transform: translate(0, -105%);
+  transition: transform 0.4s ease, visibility 0.4s ease;
+  visibility: hidden;
+  width: 100%;
+}
+.MobileNav-inner .Button {
+  letter-spacing: 1px;
+  line-height: 3.8;
+  margin: 20px -8px 20px;
+  width: 100%;
+}
+.MobileNav-inner .MobileNav-trigger {
+  display: none;
+  position: absolute;
+  right: 38px;
+  top: 30px;
+}
+.MobileNav-item {
+  color: navy;
+  display: none;
+  font-family: Lato, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 26px 0;
+  transition: opacity 0.3s ease;
+}
+.MobileNav-item.is-visible {
+  display: block;
+}
+.MobileNav-item-title {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.MobileNav-item-title a {
+  color: black;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.MobileNav-item-title span {
+  min-width: 32px;
+  position: relative;
+  width: 100%;
+}
+.MobileNav-item-title span::after {
+  border-left: 2px solid lightgray;
+  border-top: 2px solid lightgray;
+  content: "";
+  display: block;
+  height: 14px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-75%) rotate(225deg);
+  transition: transform 0.2s ease;
+  width: 14px;
+}
+.MobileNav-overlay {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: background 0.4s ease;
+  width: 100%;
+}
+.MobileNav-trigger {
+  align-items: center;
+  align-self: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: none;
+  flex-shrink: 0;
+  height: 100%;
+}
+.MobileNav-trigger-inner {
+  height: 12px;
+  position: relative;
+  width: 24px;
+}
+.MobileNav-trigger-inner::after {
+  background: #524fae;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform-origin: 0% 50%;
+  transition: transform 0.2s ease;
+  width: 100%;
+}
+.MobileNav-trigger-inner::before {
+  background: #524fae;
+  bottom: 0;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  transform-origin: 0% 50%;
+  transition: transform 0.2s ease;
+  width: 100%;
+}
+.MobileNav-trigger.is-active .MobileNav-trigger-inner::after {
+  transform: translateY(-4px) rotate(45deg);
+}
+.MobileNav-trigger.is-active .MobileNav-trigger-inner::before {
+  transform: translateY(3px) rotate(-45deg);
+}
+@media screen and (min-width: 481px) {
+  .MobileNav {
+    height: 100%;
+    top: 0;
+    z-index: 11;
+  }
+  .MobileNav-inner {
+    padding-top: 90px;
+    transform: translate(100%, 0);
+    width: 375px;
+  }
+  .MobileNav-inner .MobileNav-trigger {
+    display: block;
+  }
+  .MobileNav-trigger {
+    display: none;
+  }
+}
+@media screen and (min-width: 871px) {
+  .MobileNav-inner {
+    padding-top: 160px;
+  }
+}
+
+.is-mobilenav-open {
+  overflow-y: hidden;
+}
+.is-mobilenav-open .MobileNav {
+  pointer-events: all;
+}
+.is-mobilenav-open .MobileNav-inner {
+  transform: translate(0, 0);
+  visibility: visible;
+}
+.is-mobilenav-open .MobileNav-overlay {
+  background: rgba(0, 0, 0, 0.25);
+}
+      
+      .logo { 
+width: 100%; 
+border-radius: 0px; 
+border: 0px solid #8098ff; 
+
+}
+
+            #viframe{ 
+      width: 97%;
+      border: 3px solid gold;
+      border-radius: 10px;
+      margin:5px;    
+      }
+      
+      #my-video{
+      border-radius: 8px;
+          
+       }
+       
+
+
+.vjs-poster img {
+  width: 98%;
+  height: 98%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+  
+  #channel {
+  background-color: #fff;
+  border: 0px solid #fff;
+  text-align: left;
+}
+
+  .btn2 {
+  background-color: #fff;
+  margin-left:5px;
+  font-weight:700;
+  border: none;
+  font-size: 18px;
+     
+  }
+
+  .btn2:active,
+  .btn2:focus,
+  .btn2:hover{
+  color: #0003ff;
+   
+   
+  }
+
+
+
+.app-info { 
+display: flex; 
+align-items: center; 
+justify-content: space-between; 
+border: 0px solid #8098ff; 
+} 
+
+
+
+
+#chat-container {
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#chat-display {
+  height: 200px;
+  overflow-y: scroll;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+#message-input {
+  width: 70%;
+  padding: 8px;
+}
+
+.btn3 {
+  width: 28%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+  </style>
+
+</head>
+<body>
+    <div class="app-container">
+      <img class="logo" src="https://i.postimg.cc/vT43jg5b/20231231-202349.jpg" alt="App Icon">      
+    </div>    
+<!-- partial:index.partial.html -->
+<div class="MobileNav" data-mobile-nav>
+  <div class="MobileNav-overlay" data-mobile-nav-overlay></div>
+  <div class="MobileNav-inner">
+    <div class="MobileNav-trigger" data-mobile-nav-trigger>
+      <div class="MobileNav-trigger-inner"></div>
+    </div>
+    <ul class="MobileNav-nav" data-mobile-nav-list>
+      <li class="MobileNav-item" data-mobile-nav-item="1">
+        <div class="MobileNav-item-title">
+          <a href="#">About</a>
+        </div>
+      </li>
+      <li class="MobileNav-item" data-mobile-nav-item="2">
+        <div class="MobileNav-item-title">
+          <a href="#">Products</a>
+        </div>
+      </li>
+      <li class="MobileNav-item" data-mobile-nav-item="3">
+        <div class="MobileNav-item-title">
+          <a href="#">Services</a>
+        </div>
+      </li>
+      <li class="MobileNav-item" data-mobile-nav-item="4">
+        <div class="MobileNav-item-title">
+          <a href="#">Work</a>
+        </div>
+      </li>
+      <li class="MobileNav-item" data-mobile-nav-item="5">
+        <div class="MobileNav-item-title">
+          <a href="#">Contact</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<header class="Header" data-header>
+  <div class="Header-inner" data-header-nav>
+    <div class="mylogo">
+      <img src="https://i.postimg.cc/FsVd69vM/Goaltv.png" alt="">
+    </div>
+    <nav class="Header-nav" data-nav>
+      <div class="Header-nav-item" data-nav-item="1">
+        <a href="#">About</a>
+      </div>
+      <div class="Header-nav-item" data-nav-item="2">
+        <a href="#">Products</a>
+      </div>
+      <div class="Header-nav-item" data-nav-item="3">
+        <a href="#">Services</a>
+      </div>
+      <div class="Header-nav-item" data-nav-item="4">
+        <a href="#">Work</a>
+      </div>
+      <div class="Header-nav-item" data-nav-item="5">
+        <a href="#">Contact</a>
+      </div>
+    </nav>
+    <button class="MobileNav-trigger" data-mobile-nav-trigger>
+      <div class="MobileNav-trigger-inner"></div>
+    </button>
+  </div>
+</header>
+
+<div class="container">
+  
+    
+<div id="viframe">
+<video id="my-video" class="video-js vjs-default-skin vjs-fluid" controls preload="none"width="640px" height="364px"  data-setup="{}"poster="https://i.postimg.cc/W48tybX1/20230111-085000.jpg"style="border-radius: 8px;">
+<source src="https://play1nm.hnyongshun.cn/live/hd-en-k82rekh0k48nrep.m3u8" type='application/x-mpegURL'>
+  </video>  
+</div>  
+
+<div id="channel"> 
+  <button data-resolution="480P" class="btn2 mt-4l"><i class="bi bi-play-btn"></i>480P<i class="bi bi-badge-sd-fill"></i></button>
+  <button data-resolution="720P" class="btn2 mt-4l"><i class="bi bi-play-btn"></i>720P<i class="bi bi-badge-hd-fill"></i></button>
+</div>    
+  
+
+  <div id="chat-container">
+    <div id="chat-display"></div>
+    <input type="text" id="message-input" placeholder="Type your message...">
+    <button class="btn3" onclick="sendMessage()">Send</button>
+  </div>
+
+
+  
+</div>
+<!-- partial -->
+  <script src='https://cdn.jsdelivr.net/npm/resize-observer-polyfill@1.5.1/dist/ResizeObserver.min.js'></script>
+
+</body>
+<script>
+    function isOverflown({ clientWidth, clientHeight, scrollWidth, scrollHeight }) {
+  return scrollHeight > clientHeight || scrollWidth > clientWidth;
+}
+
+function isVisible(parent, child) {
+  return !(
+    (child.offsetLeft - parent.offsetLeft >= parent.offsetWidth)
+    || (child.offsetTop - parent.offsetTop >= parent.offsetHeight)
+  );
+}
+
+function init() {
+  const page = document.querySelector('[data-main-page]');
+  const header = document.querySelector('[data-header]');
+  const topbar = document.querySelector('[data-topbar]');
+  const nav = header.querySelector('[data-nav]');
+  const navItems = nav.querySelectorAll('[data-nav-item]');
+  const mobileNavList = document.querySelector('[data-mobile-nav-list]');
+  const mobileNavItems = document.querySelectorAll('[data-mobile-nav-item]');
+  const mobileNavTriggers = document.querySelectorAll('[data-mobile-nav-trigger]');
+  const mobileNavOverlay = document.querySelector('[data-mobile-nav-overlay]');
+
+  // Resize Observer checking whether to show mobile nav button based on if a nav element is overflowing
+  const showMobileNavButton = () => {
+    const navHidden = getComputedStyle(nav, null).display === 'none';
+    if (navHidden) {
+      mobileNavItems.forEach((item) => {
+        item.classList.add('is-visible');
+      });
+    }
+
+    const resizeObserver = new window.ResizeObserver((entries) => {
+      for (const entry of entries) {
+        header.classList.toggle('has-mobile-button', isOverflown(nav));
+        navItems.forEach((item) => {
+          const navItems = Array.from(mobileNavItems);
+          const matchingNavItem = navItems.find(el => el.dataset.mobileNavItem === item.dataset.navItem);
+
+          matchingNavItem.classList.toggle('is-visible', !isVisible(nav, item));
+        });
+      }
+    });
+
+    resizeObserver.observe(nav);
+  };
+
+  // Mobile nav button open/close
+  mobileNavTriggers.forEach((trigger) => {
+    trigger.addEventListener('click', () => {
+      mobileNavTriggers.forEach((trigger) => trigger.classList.toggle('is-active'));
+      document.body.classList.toggle('is-mobilenav-open');
+    });
+  });
+
+  // Mobile nav overlay close
+  mobileNavOverlay.addEventListener('click', () => {
+    mobileNavTriggers.forEach((trigger) => {
+      trigger.classList.remove('is-active');
+    });
+    document.body.classList.remove('is-mobilenav-open');
+  });
+
+  showMobileNavButton();
+}
+
+init();
+
+</script>
+
+<script>
+  $(function () {
+    // JSON object with resolutions and corresponding .m3u8 URLs
+    var resolutions = {
+      "480P": "https://play1nm.hnyongshun.cn/live/sd-k82rekh0k48nrep.m3u8",
+      "720P": "http://play1nm.hnyongshun.cn/live/hd-zh-k82rekh0k48nrep.m3u8"
+    };
+
+    $("#channel button").on("click", function () {
+      var player = videojs('my-video');
+      player.pause();
+      var resolution = $(this).data("resolution");
+      var new_url = resolutions[resolution];
+      player.src({ type: "application/x-mpegURL", src: new_url });
+      player.load();
+      player.play();
+    });
+  });
+</script>
+<script>
+    $(document).ready(function() {
+  setTimeout(function() {
+    $(".logo").fadeOut();
+  }, 1000); // 1000 milliseconds = 1 second
+});
+
+</script>
+<script>
+    function sendMessage() {
+  const messageInput = document.getElementById('message-input');
+  const chatDisplay = document.getElementById('chat-display');
+
+  if (messageInput.value.trim() !== '') {
+    const message = document.createElement('div');
+    message.className = 'message';
+    message.textContent = messageInput.value;
+    chatDisplay.appendChild(message);
+
+    // Clear the input field after sending the message
+    messageInput.value = '';
+
+    // Scroll to the bottom to show the latest message
+    chatDisplay.scrollTop = chatDisplay.scrollHeight;
+  }
+}
+
+</script>
+</html>
