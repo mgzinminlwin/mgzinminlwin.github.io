@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Trade+Winds&display=swap');
+
+* {
+  margin: 0;
+  padding: 2px;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Montserrat';
+}
+
+.app-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 0px solid #8098ff;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+  border: 0px solid #8098ff;
+}
+
+.app-details {
+  margin-left: 5px;
+  width: 100%;
+  border: 0px solid #8098ff;
+}
+
+
+
+.app-metadata,
+.app-metadata-section,
+.metadata-section {
+  font-size: 14px;
+  color: #555;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.screenshots-section {
+  margin-top: 20px;
+}
+
+.screenshots-container {
+  display: flex;
+  overflow-x: auto;
+}
+
+.screenshots-container img {
+  max-width: 100%;
+  margin-right: 10px;
+}
+
+.app-description {
+  margin-top: 20px;
+}
+
+.metadata-item,
+.download-section {
+  text-align: center;
+}
+
+.metadata-item img {
+  width: 30px;
+  height: 30px;
+  margin-bottom: 5px;
+}
+
+.download-section {
+  text-align: center;
+}
+
+.download-button {
+  margin: 12px;
+  width: 93%;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #af40ff;
+  color: #fff;
+  border-radius: 20px;
+}
+
+.download-button:hover {
+  margin: 12px;
+  width: 93%;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #ffd5bf;
+  color: #fff;
+  border-radius: 20px;
+}
+
+img.logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+img {
+  width: 120px;
+  height: 190px;
+  border-radius: 10px;
+}
+
+h1{
+    font-size: 16px;
+}
