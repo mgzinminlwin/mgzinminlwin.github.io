@@ -1,0 +1,64 @@
+<div id="sectionTop"><div class="sticky-bar position-relative"><div class="sticky-bar-inner p-2 text-white title-font-family bg-medium-gray" style=""><div class="mx-auto text-center">
+        Welcome to the new SET website. For previous version. <span class="d-inline-block">Please </span> <a id="linkWelcomeToNewWebsiteEn" target="_blank" rel="noopener nofollow noreferrer" href="https://classic.set.or.th/set/mainpage.do?language=en&amp;country=US" class="text-nowrap me-3">
+          Click Here
+        </a></div></div> <div></div></div> <div class="bg-white border-bottom .market-summary"><div class="d-flex container-fluid site-container"><div class="market-summary w-100">  <div class="market-container"><div class="section-one d-inline-flex align-items-center"><div class="market-dropdown me-2"><div class="dropdown"><button id="dropdownMarketSummary" type="button" data-bs-toggle="dropdown" aria-expanded="false" class="btn dropdown-toggle"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-chevron-down me-2"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg>
+              SETWB
+            </button> <ul aria-labelledby="dropdownMarketSummary" class="dropdown-menu" style=""><li><span rule="button" class="dropdown-item">SET</span></li><li><span rule="button" class="dropdown-item">SET50</span></li><li><span rule="button" class="dropdown-item">SET50FF</span></li><li><span rule="button" class="dropdown-item">SET100</span></li><li><span rule="button" class="dropdown-item">SET100FF</span></li><li><span rule="button" class="dropdown-item">sSET</span></li><li><span rule="button" class="dropdown-item">SETCLMV</span></li><li><span rule="button" class="dropdown-item">SETHD</span></li><li><span rule="button" class="dropdown-item">SETESG</span></li><li><span rule="button" class="dropdown-item active">SETWB</span></li><li><span rule="button" class="dropdown-item">mai</span></li></ul></div></div> <div class="market-status me-md-4 market-status-open">
+          Open1
+        </div> <div class="locale-language locale-language d-block d-md-none ms-auto"><div class="dropdown"><button type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Select language" class="btn dropdown-toggle"><i class="me-md-2 icon-flag-en"></i> <span class="d-none d-md-block">EN</span> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-chevron-down ms-2"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg></button> <ul data-dropdown-menu="dropdownLanguage" class="dropdown-menu"><li><a href="/th/market/index/set/overview" class="dropdown-item"><i class="me-2 icon-flag-th"></i>
+          TH
+        </a></li><li><a href="/en/market/index/set/overview" class="dropdown-item"><i class="me-2 icon-flag-en"></i>
+          EN
+        </a></li></ul></div></div> <div class="market-set market-mw d-none d-md-block me-auto me-md-4">
+          Last
+          <div class="ps-1 d-inline-block"><svg data-v-1a6acba2="" width="1em" height="1em" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="theme-success" style="width: 13px; height: 8.5px;"><path data-v-1a6acba2="" d="M8 0L15.7942 11.25H0.205771L8 0Z" fill="currentColor"></path></svg> <span class="marquee-active">833.55</span></div></div> <div class="market-mw d-none d-md-block me-md-4"><div class="d-inline-flex theme-success"><div class="marquee-active fs-14px me-1">
+              +0.12
+            </div> <div class="marquee-active fs-14px">
+              (+0.01%)
+            </div></div></div></div> <div class="
+          section-two
+          d-inline-flex
+          flex-wrap
+          align-items-center
+          px-3
+          px-md-0 px-md-0
+        "><div class="
+            market-set market-mw
+            d-inline-flex d-md-none
+            align-items-center
+            me-auto me-md-4
+          ">
+          Last
+          <svg data-v-1a6acba2="" width="7" height="7" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="theme-success"><path data-v-1a6acba2="" d="M8 0L15.7942 11.25H0.205771L8 0Z" fill="currentColor"></path></svg> <div class="d-inline-block ps-1 lh-1 pe-2"><span class="marquee-active">833.55</span></div> <div class="
+              market-set
+              d-inline-block d-md-none
+              me-3 me-md-4
+              fs-16px
+              title-font-family
+            "><div class="d-inline-flex theme-success"><div class="marquee-active">
+                +0.12
+              </div> <div class="marquee-active ps-1">
+                (+0.01%)
+              </div></div></div></div> <span class="d-inline-flex d-md-none market-datetime ms-auto">
+          15 Jan 2024 11:34:35
+        </span> <div class="market-set d-none d-md-flex me-md-4"><div class="market-mw value me-md-4">
+            Value (M.Baht)
+            <div class="d-inline-block ps-2"><span class="marquee-active">2,293.62</span></div></div> <div class="market-mw volume d-none d-md-inline-block">
+            Volume ('000 Shares)
+            <div class="d-inline-block ps-2"><span class="marquee-active">74,336</span></div></div></div> <span class="market-datetime d-none d-md-flex fs-12px fw-bolder">Last Update 15 Jan 2024 11:34:35
+        </span></div> <div class="
+          section-three
+          d-inline-flex d-md-none
+          flex-wrap
+          align-items-center
+          px-3
+          px-md-4 px-md-0
+        "><div class="market-set d-flex me-md-4 w-100"><div class="market-mw me-auto">
+            Volume ('000 Shares)
+            <div class="d-inline-block ps-2"><span class="marquee-active fs-14px">74,336</span></div></div> <div class="market-mw d-inline-block">
+            Value (M.Baht)
+            <div class="d-inline-block ps-2"><span class="marquee-active fs-14px">2,293.62</span></div></div></div></div></div></div> <div class="locale-language d-none d-md-flex align-items-center ms-auto"><div class="dropdown"><button type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Select language" class="btn dropdown-toggle"><i class="me-md-2 icon-flag-en"></i> <span class="d-none d-md-block">EN</span> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-chevron-down ms-2"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"></path></svg></button> <ul data-dropdown-menu="dropdownLanguage" class="dropdown-menu"><li><a href="/th/market/index/set/overview" class="dropdown-item"><i class="me-2 icon-flag-th"></i>
+          TH
+        </a></li><li><a href="/en/market/index/set/overview" class="dropdown-item"><i class="me-2 icon-flag-en"></i>
+          EN
+        </a></li></ul></div></div></div></div></div>
