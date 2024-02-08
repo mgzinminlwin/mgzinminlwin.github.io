@@ -69,13 +69,17 @@
         .button-container button {
             flex: 1;
             margin: 0 5px;
-            padding: 10px;
+            padding: 5px;
             background-color: #4CAF50;
-            color: white;
+            color: #000;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            font-size: 16px;
+            font-size: 14px;
+            font-weight: bold;
+            height: 40px;
+            background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
         }
 
         .button-container button:hover {
@@ -102,12 +106,12 @@
 </head>
 <body>
         <div class="button-container">
-        <button onclick="convert('binToTxt')">Convert Bin to Txt</button>
+        <button onclick="convert('binToTxt')">Convert Bin to M3u</button>
         <button onclick="convert('txtToBin')">Convert Txt to Bin</button>
     </div>
     
     <div id="textInputContainer">
-        <textarea id="textInput" placeholder="ဤနေရာတွင် Bin Code ကိုထည့်၍ Convert Bin to Txt ကိုနှိပ်ပါ။"></textarea>
+        <textarea id="textInput" placeholder="ဤနေရာတွင် Bin Code ကိုထည့်၍ Convert Bin to M3u ကိုနှိပ်ပါ။"></textarea>
     </div>
 
     <div id="outputContainer" class="output-div" draggable="true" ondragstart="dragStart(event)" ondragover="allowDrop(event)" ondrop="drop(event)">
