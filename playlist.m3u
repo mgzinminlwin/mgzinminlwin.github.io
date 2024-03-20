@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://localhost:8080/maharbhawdi.png" group-title="MM", Mahar Bhawdi
 https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:8080/maharbhawdi.png" group-title="MM", Mahar Bhawdi
-https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #EXTINF:-1 tvg-logo="http://localhost:8080/mrtv4.png" group-title="MM", MRTV-4
 https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
