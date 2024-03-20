@@ -6,6 +6,12 @@ playlist_entries = [
         "url": "https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8"
     },
     {
+        "tvg-logo": "http://localhost:8080/maharbhawdi.png",
+        "group-title": "MM",
+        "title": "Mahar Bhawdi",
+        "url": "https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8"
+    },
+    {
         "tvg-logo": "http://localhost:8080/mrtv4.png",
         "group-title": "MM",
         "title": "MRTV-4",
