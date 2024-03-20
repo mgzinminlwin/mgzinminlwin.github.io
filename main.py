@@ -22,4 +22,6 @@ for entry in playlist_entries:
 with open("playlist.m3u", "w") as file:
     file.write(playlist)
 
-print("Playlist created successfully!")
+# Print the contents of the playlist file
+print("Playlist created successfully!\n")
+print(playlist)
