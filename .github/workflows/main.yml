@@ -28,8 +28,9 @@ jobs:
 
           # Define the API URLs
           api_urls = {
-              "Live1": "https://goaltv.cloudns.org/livestream/04.json",
-              "Live2": "https://goaltv.cloudns.org/livestream/05.json"
+              "Live1": "https://goaltv.cloudns.org/livestream/02.json",
+              "Live2": "https://goaltv.cloudns.org/livestream/04.json",
+              "Live3": "https://goaltv.cloudns.org/livestream/05.json"
           }
 
           # Initialize the playlist
