@@ -68,7 +68,7 @@ jobs:
 
               # Sleep for 1 second
               time.sleep(1)
-              EOF
+EOF
           done
 
       - name: Commit changes
