@@ -32,4 +32,4 @@ jobs:
           git commit -m "Generate playlist.m3u"
           git push https://github.com/${{ github.repository }}.git HEAD:main
         env:
-          GITHUB_TOKEN: ${{ secrets.MYM3U }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
