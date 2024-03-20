@@ -3,3 +3,17 @@
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1,Channel2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1,Mahar Bhawdi
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1,MRTV-4 HD
+https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
+#EXTINF:-1,MRTV-4 SD
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8
+
+#EXTINF:-1,Channel-7 HD
+https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+
+#EXTINF:-1,Channel-7 SD
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1985887047.m3u8
