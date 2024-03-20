@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Channel1
+#EXTINF:-1,Live1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1,Channel2
+#EXTINF:-1,Live2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
