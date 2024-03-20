@@ -8,9 +8,18 @@ on:
 jobs:
   generate_playlist:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install jinja2
 
       - name: Generate Playlist
         run: python main.py
