@@ -90,6 +90,10 @@ jobs:
               except Exception as e:
                   print(f"Error fetching data from {api_url}: {e}")
 
+          # Add existing .m3u8 URLs
+          playlist += "#EXTINF:-1,MRTV-4 HD\nhttps://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8\n"
+          playlist += "#EXTINF:-1,MRTV-4 SD\nhttps://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8\n"
+
           # Write the playlist to a file
           with open("playlist.m3u", "w") as file:
               file.write(playlist)
