@@ -1,3 +1,12 @@
+name: Generate Playlist
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every 1 minute
+
 jobs:
   update_and_generate_playlist:
     runs-on: ubuntu-latest
