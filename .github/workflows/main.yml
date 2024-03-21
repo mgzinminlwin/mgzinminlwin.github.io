@@ -1,4 +1,4 @@
-name: Generate, Output, and Delete Playlist
+name: Generate, Delete, and Output Playlist
 
 on:
   push:
@@ -69,17 +69,21 @@ jobs:
                   file.write(playlist)
 
               print("Playlist created successfully!")
-              
+          except Exception as e:
+              print(f"Error updating API URLs and generating playlist: {e}")
+              exit(1)
+
+          try:
               # Output the playlist contents
               print("Playlist contents:")
               with open("playlist.m3u", "r") as file:
                   print(file.read())
               
-              # Delete the playlist file after generation
+              # Delete the playlist file after output
               os.remove("playlist.m3u")
               print("Playlist deleted successfully!")
           except Exception as e:
-              print(f"Error updating API URLs and generating playlist: {e}")
+              print(f"Error deleting playlist file: {e}")
               exit(1)
           EOF
 
