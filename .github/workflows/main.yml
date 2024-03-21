@@ -1,11 +1,11 @@
-name: Generate, Delete, and Output Playlist
+name: Generate Playlist
 
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: '*/3 * * * *'  # Runs every 3 minutes
+    - cron: '*/1 * * * *'  # Runs every 1 minute
 
 jobs:
   update_and_generate_playlist:
@@ -28,12 +28,10 @@ jobs:
           python - <<EOF
           import requests
           import json
-          import os
 
           try:
               # Define the API URLs
               api_urls = {
-              "Live1": "https://goaltv.cloudns.org/livestream/04.json",
                   "INA vs VIE": "https://api.gavang.tech/stream/737192e663ca4d1e862b3c80b27a1211/live",
                   "IRI vs TKM": "https://api.gavang.tech/stream/cba9c253069c45c78296c9f5e3b3e758/live"
               }
@@ -72,24 +70,12 @@ jobs:
           except Exception as e:
               print(f"Error updating API URLs and generating playlist: {e}")
               exit(1)
-
-          try:
-              # Output the playlist contents
-              print("Playlist contents:")
-              with open("playlist.m3u", "r") as file:
-                  print(file.read())
-              
-              # Delete the playlist file after output
-              os.remove("playlist.m3u")
-              print("Playlist deleted successfully!")
-          except Exception as e:
-              print(f"Error deleting playlist file: {e}")
-              exit(1)
           EOF
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git add playlist.m3u
           git commit -m "Update playlist.m3u"
           git push
