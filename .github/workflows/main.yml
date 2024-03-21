@@ -21,16 +21,41 @@ jobs:
       - name: Install requests library
         run: pip install requests
 
-      - name: Execute Python script
+      - name: Execute Python script to update JSON API URLs
         run: |
           python - <<EOF
           import requests
+          import json
+          import time
 
-          # Define the API URLs
-          api_urls = {
-              "Live1": "https://goaltv.cloudns.org/livestream/04.json",
-              "Live2": "https://goaltv.cloudns.org/livestream/05.json"
-          }
+          while True:
+              try:
+                  # Define the API URLs
+                  api_urls = {
+                      "Live1": "https://goaltv.cloudns.org/livestream/04.json",
+                      "Live2": "https://goaltv.cloudns.org/livestream/05.json"
+                  }
+
+                  with open("api_urls.json", "w") as f:
+                      json.dump(api_urls, f)
+
+                  print("API URLs updated successfully!")
+
+                  time.sleep(1)  # Wait for 1 second before updating again
+              except Exception as e:
+                  print(f"Error updating API URLs: {e}")
+
+          EOF
+
+      - name: Execute Python script to generate playlist
+        run: |
+          python - <<EOF
+          import requests
+          import json
+
+          # Read API URLs from file
+          with open("api_urls.json", "r") as f:
+              api_urls = json.load(f)
 
           # Initialize the playlist
           playlist = "#EXTM3U\n"
