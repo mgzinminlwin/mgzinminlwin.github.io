@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Live1
+#EXTINF:-1,Channel1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1,Live2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1,MRTV-4 HD
-https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:-1,MRTV-4 SD
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8
+#EXTINF:-1,Channel2
+https://pull.niues.live/live/stream-269858_lhd.m3u8?auth_key=1711025166-0-0-237336c5e3004be08e91ccce630ae938
