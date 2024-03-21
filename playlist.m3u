@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Live1
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
-#EXTINF:-1,INA vs VIE
-https://stm02bc63681648.cloud.anycastapnic.com/live/737192e663ca4d1e862b3c80b27a1211_720/playlist.m3u8
-#EXTINF:-1,MRTV-4 HD
-https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:-1,MRTV-4 SD
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8
