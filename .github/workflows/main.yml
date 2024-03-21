@@ -33,7 +33,7 @@ jobs:
           try:
               # Define the API URLs
               api_urls = {
-              "Live1": "https://goaltv.cloudns.org/livestream/05.json",
+              "Live1": "https://goaltv.cloudns.org/livestream/04.json",
                   "INA vs VIE": "https://api.gavang.tech/stream/737192e663ca4d1e862b3c80b27a1211/live",
                   "IRI vs TKM": "https://api.gavang.tech/stream/cba9c253069c45c78296c9f5e3b3e758/live"
               }
