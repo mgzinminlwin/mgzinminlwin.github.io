@@ -77,9 +77,10 @@ jobs:
           EOF
 
       - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add playlist.m3u
-          git commit -m "Generate playlist.m3u"
-          git push
+  run: |
+    git config --local user.email "action@github.com"
+    git config --local user.name "GitHub Action"
+    git add playlist.m3u api_urls.json  # Add api_urls.json to the list of files to be committed
+    git commit -m "Generate playlist.m3u"
+    git push
+
