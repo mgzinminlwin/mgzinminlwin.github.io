@@ -41,7 +41,7 @@ jobs:
 
                   print("API URLs updated successfully!")
 
-                  time.sleep(1)  # Wait for 1 second before updating again
+                  time.sleep(60)  # Wait for 1 minute before updating again
               except Exception as e:
                   print(f"Error updating API URLs: {e}")
 
