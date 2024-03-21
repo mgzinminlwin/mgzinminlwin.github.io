@@ -102,9 +102,10 @@ jobs:
           EOF
 
       - name: Commit changes
+        if: always()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.m3u
+          git add playlist.m3u api_urls.json
           git commit -m "Generate playlist.m3u"
           git push
