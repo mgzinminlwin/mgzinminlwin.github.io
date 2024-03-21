@@ -33,6 +33,8 @@ jobs:
               # Define the API URLs
               api_urls = {
                   "INA vs VIE": "https://api.gavang.tech/stream/737192e663ca4d1e862b3c80b27a1211/live",
+                  "INB vs VIO": "https://api.gavang.tech/stream/737192e663ca4d1e862b3c80b27a1211/live",
+                 
                   "IRI vs TKM": "https://api.gavang.tech/stream/cba9c253069c45c78296c9f5e3b3e758/live"
               }
 
