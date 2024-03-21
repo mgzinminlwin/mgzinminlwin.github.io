@@ -81,4 +81,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add playlist.m3u
           git commit -m "Update playlist.m3u"
-          git push
+          git push || true  # Ignore error if there are no changes to commit
