@@ -21,19 +21,18 @@ jobs:
           python-version: '3.x'
 
       - name: Install requests library
-        run: pip install requests  # Add this step to install the requests library
+        run: pip install requests
 
       - name: Update JSON API URLs and generate playlist
         run: |
           python - <<EOF
           import requests
           import json
-          import time
 
           try:
               # Define the API URLs
               api_urls = {
-                  "Live1": "https://goaltv.cloudns.org/livestream/04.json",
+                  "Live1": "https://goaltv.cloudns.org/livestream/02.json",
                   "Live2": "https://goaltv.cloudns.org/livestream/05.json"
               }
 
@@ -74,7 +73,6 @@ jobs:
           EOF
 
       - name: Commit changes
-        if: always()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
