@@ -21,73 +21,59 @@ jobs:
       - name: Install requests library
         run: pip install requests
 
-      - name: Execute Python script to update JSON API URLs
+      - name: Execute Python script to update JSON API URLs and generate playlist
         run: |
           python - <<EOF
           import requests
           import json
           import time
 
-          while True:
-              try:
-                  # Define the API URLs
-                  api_urls = {
-                      "Live1": "https://goaltv.cloudns.org/livestream/04.json",
-                      "Live2": "https://goaltv.cloudns.org/livestream/05.json"
-                  }
+          try:
+              # Define the API URLs
+              api_urls = {
+                  "Live1": "https://goaltv.cloudns.org/livestream/04.json",
+                  "Live2": "https://goaltv.cloudns.org/livestream/05.json"
+              }
 
-                  with open("api_urls.json", "w") as f:
-                      json.dump(api_urls, f)
+              with open("api_urls.json", "w") as f:
+                  json.dump(api_urls, f)
 
-                  print("API URLs updated successfully!")
+              print("API URLs updated successfully!")
 
-                  time.sleep(60)  # Wait for 1 minute before updating again
-              except Exception as e:
-                  print(f"Error updating API URLs: {e}")
+              # Initialize the playlist
+              playlist = "#EXTM3U\n"
 
-          EOF
+              # Iterate over each API URL
+              for channel_name, api_url in api_urls.items():
+                  try:
+                      # Fetch data from the API
+                      response = requests.get(api_url)
+                      response.raise_for_status()  # Raise an exception for non-200 status codes
+                      data = response.json()
+                      
+                      # Get the .m3u8 URL for the respective channel
+                      m3u8_url = data.get("data", {}).get("hd_1")
+                      
+                      # Add the entry to the playlist
+                      if m3u8_url:
+                          playlist += f"#EXTINF:-1,{channel_name}\n{m3u8_url}\n"
+                      else:
+                          print(f"No .m3u8 URL found for {channel_name}")
+                  except Exception as e:
+                      print(f"Error fetching data from {api_url}: {e}")
 
-      - name: Execute Python script to generate playlist
-        run: |
-          python - <<EOF
-          import requests
-          import json
+              # Add existing .m3u8 URLs
+              playlist += "#EXTINF:-1,MRTV-4 HD\nhttps://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8\n"
+              playlist += "#EXTINF:-1,MRTV-4 SD\nhttps://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8\n"
 
-          # Read API URLs from file
-          with open("api_urls.json", "r") as f:
-              api_urls = json.load(f)
+              # Write the playlist to a file
+              with open("playlist.m3u", "w") as file:
+                  file.write(playlist)
 
-          # Initialize the playlist
-          playlist = "#EXTM3U\n"
-
-          # Iterate over each API URL
-          for channel_name, api_url in api_urls.items():
-              try:
-                  # Fetch data from the API
-                  response = requests.get(api_url)
-                  response.raise_for_status()  # Raise an exception for non-200 status codes
-                  data = response.json()
-                  
-                  # Get the .m3u8 URL for the respective channel
-                  m3u8_url = data.get("data", {}).get("hd_1")
-                  
-                  # Add the entry to the playlist
-                  if m3u8_url:
-                      playlist += f"#EXTINF:-1,{channel_name}\n{m3u8_url}\n"
-                  else:
-                      print(f"No .m3u8 URL found for {channel_name}")
-              except Exception as e:
-                  print(f"Error fetching data from {api_url}: {e}")
-
-          # Add existing .m3u8 URLs
-          playlist += "#EXTINF:-1,MRTV-4 HD\nhttps://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8\n"
-          playlist += "#EXTINF:-1,MRTV-4 SD\nhttps://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8\n"
-
-          # Write the playlist to a file
-          with open("playlist.m3u", "w") as file:
-              file.write(playlist)
-
-          print("Playlist created successfully!")
+              print("Playlist created successfully!")
+          except Exception as e:
+              print(f"Error: {e}")
+              exit(1)
           EOF
 
       - name: Commit changes
