@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MyLive5
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
 #EXTINF:-1,MRTV-4 HD
 https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1,MRTV-4 SD
