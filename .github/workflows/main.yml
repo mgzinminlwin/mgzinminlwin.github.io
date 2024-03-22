@@ -32,10 +32,9 @@ jobs:
           try:
               # Define the API URLs
               api_urls = {
-                  "INA vs VIE": "https://api.gavang.tech/stream/737192e663ca4d1e862b3c80b27a1211/live",
-                  "INB vs VIO": "https://api.gavang.tech/stream/737192e663ca4d1e862b3c80b27a1211/live",
-                 
-                  "IRI vs TKM": "https://api.gavang.tech/stream/cba9c253069c45c78296c9f5e3b3e758/live"
+                  "MyLive5": "https://goaltv.cloudns.org/livestream/05.json",
+                  "JAP23 vs MAL23": "https://api.gavang.tech/stream/f2fcce03582a425eb3769731960d53a6/live",
+                  "AZE21 vs ENG21": "https://api.gavang.tech/stream/4040c2b7947242af80776026f4db941b/live"
               }
 
               # Initialize the playlist
