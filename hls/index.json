@@ -1,0 +1,2602 @@
+[
+    {
+        "subCateName": "IDN D1",
+        "hostName": "PSIS Semarang",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/3e35fc4de9d3f262628461d6471d271c.png",
+        "guestName": "Arema FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/4be4552d515edc4da520121b5789fea2.png",
+        "matchTime": 1727339400000,
+        "anchors": [
+            {
+                "nickName": "BLV SINGER",
+                "icon": "https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",
+                "roomNum": "9912089"
+            },
+            {
+                "nickName": "BLV TAP",
+                "icon": "https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",
+                "roomNum": "9912041"
+            },
+            {
+                "nickName": "BLV DECO",
+                "icon": "https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",
+                "roomNum": "9912060"
+            },
+            {
+                "nickName": "BLV CRIS",
+                "icon": "https://sta.vnres.co/file/head/20231110/053fecd105594fbc1bbd33888e39391b.jpg",
+                "roomNum": "499765"
+            },
+            {
+                "nickName": "BLV Củ Cải",
+                "icon": "https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",
+                "roomNum": "9912091"
+            },
+            {
+                "nickName": "BLV LONG",
+                "icon": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",
+                "roomNum": "9912050"
+            }
+        ]
+    },
+    {
+        "subCateName": "PBGC",
+        "hostName": "Meralco Bolts",
+        "hostIcon": "https://sta.vnres.co/file/common/20240924/732e463be28786637441648539a6114c.png",
+        "guestName": "Barangay Ginebra San Miguel",
+        "guestIcon": "https://sta.vnres.co/file/common/20240924/f829a5493289435c446fc12b6f612e44.png",
+        "matchTime": 1727341200000,
+        "anchors": [
+            {
+                "nickName": "BLV BEAN",
+                "icon": "https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",
+                "roomNum": "166054"
+            },
+            {
+                "nickName": "BLV HENRY",
+                "icon": "https://sta.vnres.co/file/head/20240823/932df60bfe7b6b855b402474d1f070a5.jpg",
+                "roomNum": "428392"
+            }
+        ]
+    },
+    {
+        "subCateName": "NBL",
+        "hostName": "South East Melbourne",
+        "hostIcon": "https://sta.vnres.co/file/common/20240924/edcc03fb08b0e8c038f0b5bd79161b77.png",
+        "guestName": "Melbourne United",
+        "guestIcon": "https://sta.vnres.co/file/common/20240924/72a376ce12cd16787e0a893a93c42749.png",
+        "matchTime": 1727343000000,
+        "anchors": [
+            {
+                "nickName": "BRIAN",
+                "icon": "https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",
+                "roomNum": "122591"
+            },
+            {
+                "nickName": "BLV AKIRA",
+                "icon": "https://sta.vnres.co/file/head/20231020/7d27de9a0ad8d85597b60bd69c78a7ad.jpg",
+                "roomNum": "359960"
+            },
+            {
+                "nickName": "KING",
+                "icon": "https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",
+                "roomNum": "9912099"
+            }
+        ]
+    },
+    {
+        "subCateName": "GEO D1",
+        "hostName": "Samtredia",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/d2bb3f29e8bc98a59e65ea1e74411e3b.png",
+        "guestName": "FC Telavi",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/8b579f7972465a19e921532cb370eed7.png",
+        "matchTime": 1727350200000,
+        "anchors": [
+            {
+                "nickName": "BLV STING",
+                "icon": "https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png",
+                "roomNum": "9912016"
+            },
+            {
+                "nickName": "BLV ENZO",
+                "icon": "https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg",
+                "roomNum": "380460"
+            },
+            {
+                "nickName": "BLV JAXLIE",
+                "icon": "https://sta.vnres.co/file/head/20240828/3b43c36169bd2276704493db69cefda1.jpg",
+                "roomNum": "365798"
+            }
+        ]
+    },
+    {
+        "subCateName": "PBGC",
+        "hostName": "San Miguel Beermen",
+        "hostIcon": "https://sta.vnres.co/file/common/20240924/bdf1f168cc075a05e49665a36f50ad8d.png",
+        "guestName": "Converge FiberXers",
+        "guestIcon": "https://sta.vnres.co/file/common/20240924/02356bd3ac38ec4f9ae3cf8bad32f1b3.png",
+        "matchTime": 1727350200000,
+        "anchors": [
+            {
+                "nickName": "BLV BEAN",
+                "icon": "https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",
+                "roomNum": "166054"
+            }
+        ]
+    },
+    {
+        "subCateName": "IDN D1",
+        "hostName": "PSS Sleman",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/5ec3e688d57d371a813fec1865e06554.png",
+        "guestName": "Malut United",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/db1e57401881137a87ffddb2e1eaf292.png",
+        "matchTime": 1727352000000,
+        "anchors": [
+            {
+                "nickName": "BLV ZICO",
+                "icon": "https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg",
+                "roomNum": "9912081"
+            },
+            {
+                "nickName": "BLV SHOGUN",
+                "icon": "https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",
+                "roomNum": "9912007"
+            },
+            {
+                "nickName": "NGỘ KHÔNG",
+                "icon": "https://sta.vnres.co/file/head/20240910/cc683c97e5e53467c3dbb4c8ae1f852c.png",
+                "roomNum": "459066"
+            }
+        ]
+    },
+    {
+        "subCateName": "ASEAN CC",
+        "hostName": "Buriram United",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/4e41df7da9a2e360ec20e6f66c867257.png",
+        "guestName": "Kaya FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/3eaa8c7f5492f1b7d642776d15be08c4.png",
+        "matchTime": 1727352000000,
+        "anchors": [
+            {
+                "nickName": "CR Bưởi",
+                "icon": "https://sta.vnres.co/file/head/20240407/721552ace681d169b9ad9adaf3a71c17.jpg",
+                "roomNum": "387694"
+            },
+            {
+                "nickName": "BLV PIRLO",
+                "icon": "https://sta.vnres.co/file/head/20231029/ee97111f1621fdb6dff44cb21741b988.jpeg",
+                "roomNum": "351530"
+            },
+            {
+                "nickName": "BLV KEVILL",
+                "icon": "https://sta.vnres.co/file/head/20230910/4ea8b188bb8a8e5c0ecd439656b23f6c.png",
+                "roomNum": "477560"
+            },
+            {
+                "nickName": "BLV TOMIA",
+                "icon": "https://sta.vnres.co/file/head/20240204/1f53f98ccfe232cc3f21173786fc61cf.jpg",
+                "roomNum": "9912008"
+            },
+            {
+                "nickName": "BLV ZORO",
+                "icon": "https://sta.vnres.co/file/head/20240521/dfe2588f7e11e6ae277692de134117f8.png",
+                "roomNum": "299144"
+            },
+            {
+                "nickName": "BLV CUỘI",
+                "icon": "https://sta.vnres.co/file/head/20240603/d34e97127bdca6842285fcf2a8b9d6c4.jpeg",
+                "roomNum": "256080"
+            }
+        ]
+    },
+    {
+        "subCateName": "ASEAN CC",
+        "hostName": "Cong An Ha Noi FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/569e79dcd34a7ed9b1f2c72a583603c4.png",
+        "guestName": "Lion City Sailors",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/144f033a27bc8c593820304f2c2151f0.png",
+        "matchTime": 1727353800000,
+        "anchors": [
+            {
+                "nickName": "BLV DECO",
+                "icon": "https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",
+                "roomNum": "9912060"
+            },
+            {
+                "nickName": "RICKHANTER",
+                "icon": "https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",
+                "roomNum": "9912101"
+            },
+            {
+                "nickName": "BLV Củ Cải",
+                "icon": "https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",
+                "roomNum": "9912091"
+            },
+            {
+                "nickName": "BLV LONG",
+                "icon": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",
+                "roomNum": "9912050"
+            },
+            {
+                "nickName": "BLV SINGER",
+                "icon": "https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",
+                "roomNum": "9912089"
+            },
+            {
+                "nickName": "BLV TAP",
+                "icon": "https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",
+                "roomNum": "9912041"
+            }
+        ]
+    },
+    {
+        "subCateName": "ASEAN CC",
+        "hostName": "Kuala Lumpur City FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/9dd8ac7dadb22cae26133024eecf4d72.png",
+        "guestName": "Borneo FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/bb8d0abfbc126197c8f0e09638100ef5.png",
+        "matchTime": 1727355600000,
+        "anchors": [
+            {
+                "nickName": "BLV LUCAS",
+                "icon": "https://sta.vnres.co/file/head/20240622/cc68dfc01b8d17308feea1e40a7ffe5f.jpg",
+                "roomNum": "304148"
+            },
+            {
+                "nickName": "BLV CÁ",
+                "icon": "https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",
+                "roomNum": "9912093"
+            },
+            {
+                "nickName": "BLV RAM",
+                "icon": "https://sta.vnres.co/file/head/20231111/0378db27e447c04a6a7898c8d6af8fb6.png",
+                "roomNum": "9912077"
+            },
+            {
+                "nickName": "THẠCH TÚ",
+                "icon": "https://sta.vnres.co/file/head/20240312/68ef536d79246cefb24db9504c91f313.jpg",
+                "roomNum": "344370"
+            },
+            {
+                "nickName": "BLV LOGAN",
+                "icon": "https://sta.vnres.co/file/head/20231209/e2c8c85b5ecb42a20894c70b34f11648.jpg",
+                "roomNum": "9911977"
+            },
+            {
+                "nickName": "BLV MESSI",
+                "icon": "https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",
+                "roomNum": "494201"
+            }
+        ]
+    },
+    {
+        "subCateName": "UAE LP",
+        "hostName": "Al Bataeh",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/8a0cd11fc79c22230ec196478c2a3aef.png",
+        "guestName": "Al-Sharjah",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/c549332e46f02d7ca2f93460bc814e02.png",
+        "matchTime": 1727356800000,
+        "anchors": [
+            {
+                "nickName": "BLV TÁO",
+                "icon": "https://sta.vnres.co/file/head/20240501/f3806d4a9588a6cca76206c4bc8d4681.jpg",
+                "roomNum": "479849"
+            },
+            {
+                "nickName": "BLV SÓI",
+                "icon": "https://sta.vnres.co/file/head/20240519/b423c396a447ef3f6d520c72075dfd5b.png",
+                "roomNum": "427562"
+            },
+            {
+                "nickName": "BLV  TYPN",
+                "icon": "https://sta.vnres.co/file/head/20240520/dad721f9950cada5ceede5beca4d4d11.jpg",
+                "roomNum": "9912009"
+            },
+            {
+                "nickName": "BLV Hổ Lùn",
+                "icon": "https://sta.vnres.co/file/head/20240328/c4f0179b32d9bfa45ff40739ef836235.png",
+                "roomNum": "308080"
+            }
+        ]
+    },
+    {
+        "subCateName": "UZB PFL",
+        "hostName": "Dinamo Samarqand",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/6c8bbde0cbe1a5b361d1c818219c1f66.png",
+        "guestName": "Termez Surkhon",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/d4ea0be17fb2df43ae41a62a7d18a87c.png",
+        "matchTime": 1727357400000,
+        "anchors": [
+            {
+                "nickName": "BLV GẤU",
+                "icon": "https://sta.vnres.co/file/head/20240701/15c83996eeae70bd6ed2a3132c3a4f8d.jpg",
+                "roomNum": "304297"
+            },
+            {
+                "nickName": "BLV PHÁO THỦ",
+                "icon": "https://sta.vnres.co/file/head/20240912/58b16e9d6941608497b68d743d67b079.jpg",
+                "roomNum": "474787"
+            }
+        ]
+    },
+    {
+        "subCateName": "UZB PFL",
+        "hostName": "Navbahor Namangan",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/2cff85de501cc8dea122970dc61aaed3.png",
+        "guestName": "Sogdiana Jizak",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/fd817af38c8e2ae547c48fba500554a3.png",
+        "matchTime": 1727357400000,
+        "anchors": [
+            {
+                "nickName": "BLV JINDO",
+                "icon": "https://sta.vnres.co/file/head/20240531/3852caa24b9fb582fbee957f22306c0f.jpg",
+                "roomNum": "488346"
+            },
+            {
+                "nickName": "BLV DUBAI",
+                "icon": "https://sta.vnres.co/file/head/20240616/fcc16e32f10d290ebf5c03de3a65dd30.jpeg",
+                "roomNum": "364855"
+            }
+        ]
+    },
+    {
+        "subCateName": "RUS CUP",
+        "hostName": "Spartak Kostroma",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/6b7d01235ba252e6ae7bf9dbd49580ea.png",
+        "guestName": "Yenisey Krasnoyarsk",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/06c309e6393300fbee7c8bed34a6374d.png",
+        "matchTime": 1727359200000,
+        "anchors": [
+            {
+                "nickName": "BLV LUFFY",
+                "icon": "https://sta.vnres.co/file/head/20240601/61223dfb8070cdf5daf8e125106e5b05.jpg",
+                "roomNum": "400798"
+            },
+            {
+                "nickName": "BLV AK47",
+                "icon": "https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",
+                "roomNum": "9912092"
+            }
+        ]
+    },
+    {
+        "subCateName": "IND SL",
+        "hostName": "Chennaiyin FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/0207bbcd0e2fac1c8453449f27fd3746.png",
+        "guestName": "Mohammedan SC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/3c866ae94c91ffa287227744627bd8e6.png",
+        "matchTime": 1727359200000,
+        "anchors": [
+            {
+                "nickName": "BLV ZORO",
+                "icon": "https://sta.vnres.co/file/head/20240521/dfe2588f7e11e6ae277692de134117f8.png",
+                "roomNum": "299144"
+            },
+            {
+                "nickName": "BLV HOPE",
+                "icon": "https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",
+                "roomNum": "9912043"
+            },
+            {
+                "nickName": "BLV BÉO",
+                "icon": "https://sta.vnres.co/file/head/20240912/962848465a28eff51624e1e69601dee7.jpg",
+                "roomNum": "459401"
+            },
+            {
+                "nickName": "BLV TONY",
+                "icon": "https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",
+                "roomNum": "991117"
+            }
+        ]
+    },
+    {
+        "subCateName": "RUS CUP",
+        "hostName": "Znamya Truda",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/d9b001b08485d354dfb189b8e4b93bd7.png",
+        "guestName": "Arsenal Tula",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/97a71ba4a427b9301d32a2db553eb3df.png",
+        "matchTime": 1727362800000,
+        "anchors": [
+            {
+                "nickName": "BLV CAPIE",
+                "icon": "https://sta.vnres.co/file/head/20240901/bea6fa92eb67cca408ccdadb9b228237.jpg",
+                "roomNum": "266095"
+            },
+            {
+                "nickName": "BLV ENZO",
+                "icon": "https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg",
+                "roomNum": "380460"
+            }
+        ]
+    },
+    {
+        "subCateName": "LIT D1",
+        "hostName": "Siauliai",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/cc9b2b90ea879bb4e34d5611281a9951.png",
+        "guestName": "FK Panevezys",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/35bc2726e5fe8c44978849e460794705.png",
+        "matchTime": 1727362800000,
+        "anchors": [
+            {
+                "nickName": "A CHÈ",
+                "icon": "https://sta.vnres.co/file/head/20240521/1c640ff8f1c7705632bd5d648860157f.jpeg",
+                "roomNum": "356042"
+            },
+            {
+                "nickName": "BLV VIP",
+                "icon": "https://sta.vnres.co/file/head/20240722/46c7ce83a08d807534130c2e8d33c028.jpg",
+                "roomNum": "491873"
+            }
+        ]
+    },
+    {
+        "subCateName": "QAT D1",
+        "hostName": "Al-Arabi SC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/81c953913ebca4bd4ec64cc04eb83f19.png",
+        "guestName": "Al Rayyan",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/64bea3654e7c79d7a3c0856001148e90.png",
+        "matchTime": 1727362800000,
+        "anchors": [
+            {
+                "nickName": "BLV CÁ",
+                "icon": "https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",
+                "roomNum": "9912093"
+            },
+            {
+                "nickName": "BIN BIN",
+                "icon": "https://sta.vnres.co/file/head/20240105/5c7be8449c0379231050f6e18353cb4d.jpeg",
+                "roomNum": "486629"
+            },
+            {
+                "nickName": "BLV ADAM",
+                "icon": "https://sta.vnres.co/file/head/20240206/f266c2b178b3fd49f40c11c4c2526c9a.jpg",
+                "roomNum": "336303"
+            },
+            {
+                "nickName": "BLV PEWPEW",
+                "icon": "https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",
+                "roomNum": "9912015"
+            },
+            {
+                "nickName": "BLV PIRLO",
+                "icon": "https://sta.vnres.co/file/head/20231029/ee97111f1621fdb6dff44cb21741b988.jpeg",
+                "roomNum": "351530"
+            },
+            {
+                "nickName": "RICKHANTER",
+                "icon": "https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",
+                "roomNum": "9912101"
+            }
+        ]
+    },
+    {
+        "subCateName": "GEO D1",
+        "hostName": "FC Saburtalo Tbilisi",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/b8c1c7ebfb9d72f2d32599887a3469cb.png",
+        "guestName": "Gagra Tbilisi",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/a85c4c760c114154ab8bfca91c1f1463.png",
+        "matchTime": 1727362800000,
+        "anchors": [
+            {
+                "nickName": "BLV MIXI",
+                "icon": "https://sta.vnres.co/file/head/20240513/a35138d0a87939ce9b0cac7ad3ad94be.jpg",
+                "roomNum": "290928"
+            },
+            {
+                "nickName": "BLV Chân Gỗ",
+                "icon": "https://sta.vnres.co/file/head/20240605/b0fc4f53aa9382e64bbfddf2b6967644.jpg",
+                "roomNum": "381230"
+            }
+        ]
+    },
+    {
+        "subCateName": "UAE LP",
+        "hostName": "Al-Ain FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/e92b9eab846994c42695e29b2286eb1a.jpg",
+        "guestName": "Al-Wasl SC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/b3068698abbec4a2605c19f8c5a4939b.png",
+        "matchTime": 1727366400000,
+        "anchors": [
+            {
+                "nickName": "BLV PHỞ GÀ",
+                "icon": "https://sta.vnres.co/file/head/20240906/d1cedcd53a37d5f0096ea3fae9ff8946.jpg",
+                "roomNum": "259862"
+            },
+            {
+                "nickName": "SAO LA",
+                "icon": "https://sta.vnres.co/file/head/20240114/50dcc24aeaf86849f7ff1baeb488f02b.jpg",
+                "roomNum": "462413"
+            },
+            {
+                "nickName": "BLV MONKEY",
+                "icon": "https://sta.vnres.co/file/head/20240920/758fd55329188b393203eb5f4435cd1a.jpg",
+                "roomNum": "336975"
+            },
+            {
+                "nickName": "BLV FLY",
+                "icon": "https://sta.vnres.co/file/head/20240901/50fe4c2a46867d791f0de2abd36205b6.jpg",
+                "roomNum": "251797"
+            }
+        ]
+    },
+    {
+        "subCateName": "AUT D1",
+        "hostName": "TSV Hartberg",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/2e694917266fe68b2038663a499d2af5.png",
+        "guestName": "WSG Tirol",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/be28cd1852126b84341e0f450a519ae8.png",
+        "matchTime": 1727368200000,
+        "anchors": [
+            {
+                "nickName": "BLV VITAMIN",
+                "icon": "https://sta.vnres.co/file/head/20240328/2a3a9f105c9849eca502de473e711a18.jpg",
+                "roomNum": "400722"
+            },
+            {
+                "nickName": "BLV TONY",
+                "icon": "https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",
+                "roomNum": "991117"
+            },
+            {
+                "nickName": "BLV FANTOM",
+                "icon": "https://sta.vnres.co/file/head/20240919/4ecec723fd35ac70d93bdc0253fe8e07.jpg",
+                "roomNum": "326682"
+            },
+            {
+                "nickName": "ĐỨC JOKER",
+                "icon": "https://sta.vnres.co/file/head/20240626/d860496a2452ab22ce5fa5eba34d4a4d.jpg",
+                "roomNum": "468304"
+            }
+        ]
+    },
+    {
+        "subCateName": "RUS CUP",
+        "hostName": "FC Amkal Moscow",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/4350f1224ed9cd72c9d370cc21d978fc.png",
+        "guestName": "Alania Vladikavkaz",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/1d157ef31af05bedde1b63a2c7789b3a.png",
+        "matchTime": 1727368200000,
+        "anchors": [
+            {
+                "nickName": "BLV PELE",
+                "icon": "https://sta.vnres.co/file/head/20231219/57f3648d741a244b4717c05f9380a20b.png",
+                "roomNum": "9912003"
+            },
+            {
+                "nickName": "BLV SIMBA",
+                "icon": "https://sta.vnres.co/file/head/20240912/14fa95d73320314bda860e0ec84ca07c.jpg",
+                "roomNum": "337575"
+            }
+        ]
+    },
+    {
+        "subCateName": "ITA Cup",
+        "hostName": "Monza",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/13497c83519de7a06049143d94a3a992.png",
+        "guestName": "Brescia",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/377899d2662c736b482e96b2cb9fdd64.png",
+        "matchTime": 1727368200000,
+        "anchors": [
+            {
+                "nickName": "BLV RAM",
+                "icon": "https://sta.vnres.co/file/head/20231111/0378db27e447c04a6a7898c8d6af8fb6.png",
+                "roomNum": "9912077"
+            },
+            {
+                "nickName": "BLV TOMMY",
+                "icon": "https://sta.vnres.co/file/head/20240227/9d9b326c7ac20bff96ced5de9444331b.jpeg",
+                "roomNum": "414317"
+            },
+            {
+                "nickName": "Văn Chuẩn",
+                "icon": "https://sta.vnres.co/file/head/20240428/c96e377524ebf301df3aae34d8accafe.jpg",
+                "roomNum": "389399"
+            },
+            {
+                "nickName": "A PÁO",
+                "icon": "https://sta.vnres.co/file/head/20240605/282c2bcf30f6aa9917537b170e5cb3bd.jpeg",
+                "roomNum": "235232"
+            },
+            {
+                "nickName": "BLV A BỆU",
+                "icon": "https://sta.vnres.co/file/head/20240902/08f2cf5409101eb4839d63ffd357942a.png",
+                "roomNum": "484845"
+            },
+            {
+                "nickName": "BLV BÉO",
+                "icon": "https://sta.vnres.co/file/head/20240912/962848465a28eff51624e1e69601dee7.jpg",
+                "roomNum": "459401"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "Fenerbahce",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/b093457353174cfbe29b09c707cb547d.png",
+        "guestName": "Union Saint-Gilloise",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/a7f3dd647141845d45aeea49900566db.png",
+        "matchTime": 1727369100000,
+        "anchors": [
+            {
+                "nickName": "BLV CUỘI",
+                "icon": "https://sta.vnres.co/file/head/20240603/d34e97127bdca6842285fcf2a8b9d6c4.jpeg",
+                "roomNum": "256080"
+            },
+            {
+                "nickName": "BLV LOGAN",
+                "icon": "https://sta.vnres.co/file/head/20231209/e2c8c85b5ecb42a20894c70b34f11648.jpg",
+                "roomNum": "9911977"
+            },
+            {
+                "nickName": "BLV RICARDO",
+                "icon": "https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg",
+                "roomNum": "9912052"
+            },
+            {
+                "nickName": "BLV  TYPN",
+                "icon": "https://sta.vnres.co/file/head/20240520/dad721f9950cada5ceede5beca4d4d11.jpg",
+                "roomNum": "9912009"
+            },
+            {
+                "nickName": "BLV TOMIA",
+                "icon": "https://sta.vnres.co/file/head/20240204/1f53f98ccfe232cc3f21173786fc61cf.jpg",
+                "roomNum": "9912008"
+            },
+            {
+                "nickName": "BLV LONG",
+                "icon": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",
+                "roomNum": "9912050"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "Malmo FF",
+        "hostIcon": "https://sta.vnres.co/file/common/20240922/b491b2b98313ca31ddee3fdc225897f9.png",
+        "guestName": "Glasgow Rangers",
+        "guestIcon": "https://sta.vnres.co/file/common/20240922/6b936a4c398d94fe16b06e3c264ebab3.png",
+        "matchTime": 1727369100000,
+        "anchors": [
+            {
+                "nickName": "BLV TÁO",
+                "icon": "https://sta.vnres.co/file/head/20240501/f3806d4a9588a6cca76206c4bc8d4681.jpg",
+                "roomNum": "479849"
+            },
+            {
+                "nickName": "SÙNG A MÚP",
+                "icon": "https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",
+                "roomNum": "9912097"
+            },
+            {
+                "nickName": "BLV ĐỐM",
+                "icon": "https://sta.vnres.co/file/head/20231105/2cde19ee6fcf4eb1fb0b0accf5569f54.jpg",
+                "roomNum": "434982"
+            },
+            {
+                "nickName": "BLV KUDO",
+                "icon": "https://sta.vnres.co/file/head/20240922/21645cfb378e3b18ed8c8a3030610e53.jpg",
+                "roomNum": "334434"
+            },
+            {
+                "nickName": "BLV PICASSO",
+                "icon": "https://sta.vnres.co/file/head/20230822/02d95be00e123acae6282e2730965ddf.jpg",
+                "roomNum": "427856"
+            },
+            {
+                "nickName": "TAM MAO",
+                "icon": "https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",
+                "roomNum": "9912100"
+            }
+        ]
+    },
+    {
+        "subCateName": "SPA D1",
+        "hostName": "UD Las Palmas",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/40aba1401072417f94c2dc69871a8fd1.png",
+        "guestName": "Real Betis",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/eb64d991ba24d6250136b0949094c064.png",
+        "matchTime": 1727370000000,
+        "anchors": [
+            {
+                "nickName": "CÔNG CHẤT",
+                "icon": "https://sta.vnres.co/file/head/20240325/17c3eadf5bed58f818c35aea4d181a04.jpg",
+                "roomNum": "291277"
+            },
+            {
+                "nickName": "BLV DUBAI",
+                "icon": "https://sta.vnres.co/file/head/20240616/fcc16e32f10d290ebf5c03de3a65dd30.jpeg",
+                "roomNum": "364855"
+            },
+            {
+                "nickName": "BLV STING",
+                "icon": "https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png",
+                "roomNum": "9912016"
+            },
+            {
+                "nickName": "BLV PHÁO THỦ",
+                "icon": "https://sta.vnres.co/file/head/20240912/58b16e9d6941608497b68d743d67b079.jpg",
+                "roomNum": "474787"
+            },
+            {
+                "nickName": "THẠCH TÚ",
+                "icon": "https://sta.vnres.co/file/head/20240312/68ef536d79246cefb24db9504c91f313.jpg",
+                "roomNum": "344370"
+            },
+            {
+                "nickName": "BLV KAN",
+                "icon": "https://sta.vnres.co/file/head/20240503/ae6c3229953d0a2ba450d5924a8f1de8.jpg",
+                "roomNum": "283501"
+            }
+        ]
+    },
+    {
+        "subCateName": "SPA D1",
+        "hostName": "RCD Espanyol",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/b625169949d0dd67158c191679187238.png",
+        "guestName": "Villarreal CF",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/53d7ea9b4329d782183256945d47c997.png",
+        "matchTime": 1727370000000,
+        "anchors": [
+            {
+                "nickName": "BLV LUCAS",
+                "icon": "https://sta.vnres.co/file/head/20240622/cc68dfc01b8d17308feea1e40a7ffe5f.jpg",
+                "roomNum": "304148"
+            },
+            {
+                "nickName": "BLV Củ Cải",
+                "icon": "https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",
+                "roomNum": "9912091"
+            },
+            {
+                "nickName": "BIN BIN",
+                "icon": "https://sta.vnres.co/file/head/20240105/5c7be8449c0379231050f6e18353cb4d.jpeg",
+                "roomNum": "486629"
+            },
+            {
+                "nickName": "BLV SHOGUN",
+                "icon": "https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",
+                "roomNum": "9912007"
+            },
+            {
+                "nickName": "BLV PEWPEW",
+                "icon": "https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",
+                "roomNum": "9912015"
+            },
+            {
+                "nickName": "BLV PIRLO",
+                "icon": "https://sta.vnres.co/file/head/20231029/ee97111f1621fdb6dff44cb21741b988.jpeg",
+                "roomNum": "351530"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "AFC Ajax",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/53daf0eddc23b82cc2ddd70eab565ed6.png",
+        "guestName": "Besiktas JK",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/61c9e2ecaf4178efcf02089580093349.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "BLV PHÁO THỦ",
+                "icon": "https://sta.vnres.co/file/head/20240912/58b16e9d6941608497b68d743d67b079.jpg",
+                "roomNum": "474787"
+            },
+            {
+                "nickName": "BLV FANTOM",
+                "icon": "https://sta.vnres.co/file/head/20240919/4ecec723fd35ac70d93bdc0253fe8e07.jpg",
+                "roomNum": "326682"
+            },
+            {
+                "nickName": "BLV MONKEY",
+                "icon": "https://sta.vnres.co/file/head/20240920/758fd55329188b393203eb5f4435cd1a.jpg",
+                "roomNum": "336975"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "AS Roma",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/5d32aaf00fc118b94f41c97af9b550cb.png",
+        "guestName": "Athletic Club",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/9bf1f469a389fdb2a85522d8fd2efad0.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "BLV PICASSO",
+                "icon": "https://sta.vnres.co/file/head/20230822/02d95be00e123acae6282e2730965ddf.jpg",
+                "roomNum": "427856"
+            },
+            {
+                "nickName": "BLV TOMMY",
+                "icon": "https://sta.vnres.co/file/head/20240227/9d9b326c7ac20bff96ced5de9444331b.jpeg",
+                "roomNum": "414317"
+            },
+            {
+                "nickName": "BLV TÁO",
+                "icon": "https://sta.vnres.co/file/head/20240501/f3806d4a9588a6cca76206c4bc8d4681.jpg",
+                "roomNum": "479849"
+            },
+            {
+                "nickName": "SÙNG A MÚP",
+                "icon": "https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",
+                "roomNum": "9912097"
+            },
+            {
+                "nickName": "BLV ĐỐM",
+                "icon": "https://sta.vnres.co/file/head/20231105/2cde19ee6fcf4eb1fb0b0accf5569f54.jpg",
+                "roomNum": "434982"
+            },
+            {
+                "nickName": "BLV TOMIA",
+                "icon": "https://sta.vnres.co/file/head/20240204/1f53f98ccfe232cc3f21173786fc61cf.jpg",
+                "roomNum": "9912008"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "Sporting Braga",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/7308ec027b0b7202bc21817eb89250e1.png",
+        "guestName": "Maccabi Tel Aviv",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/7302314ba15198bdd3b5487ec9cc4748.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "BLV CAPIE",
+                "icon": "https://sta.vnres.co/file/head/20240901/bea6fa92eb67cca408ccdadb9b228237.jpg",
+                "roomNum": "266095"
+            },
+            {
+                "nickName": "BLV VITAMIN",
+                "icon": "https://sta.vnres.co/file/head/20240328/2a3a9f105c9849eca502de473e711a18.jpg",
+                "roomNum": "400722"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "Lyon",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/e85f95b4a3c6ca305d466e01506d3d93.png",
+        "guestName": "Olympiakos Piraeus",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/09de2251f5d1c14ceb32030be30c29eb.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "A CHÈ",
+                "icon": "https://sta.vnres.co/file/head/20240521/1c640ff8f1c7705632bd5d648860157f.jpeg",
+                "roomNum": "356042"
+            },
+            {
+                "nickName": "BLV JAXLIE",
+                "icon": "https://sta.vnres.co/file/head/20240828/3b43c36169bd2276704493db69cefda1.jpg",
+                "roomNum": "365798"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "Eintracht Frankfurt",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/72674ea738b0ce1456ca4394e127ed87.png",
+        "guestName": "FC Viktoria Plzen",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/faf3e350422b7b0cbeb8858fb2a76de9.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "BLV PELE",
+                "icon": "https://sta.vnres.co/file/head/20231219/57f3648d741a244b4717c05f9380a20b.png",
+                "roomNum": "9912003"
+            },
+            {
+                "nickName": "NGỘ KHÔNG",
+                "icon": "https://sta.vnres.co/file/head/20240910/cc683c97e5e53467c3dbb4c8ae1f852c.png",
+                "roomNum": "459066"
+            }
+        ]
+    },
+    {
+        "subCateName": "UEFA EL",
+        "hostName": "Tottenham Hotspur",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/c6e8effc9d26543e8f120dad37d36e41.png",
+        "guestName": "Qarabag",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/497b638ea63b5c58ac973442e644dd7a.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "TAM MAO",
+                "icon": "https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",
+                "roomNum": "9912100"
+            },
+            {
+                "nickName": "BLV LOGAN",
+                "icon": "https://sta.vnres.co/file/head/20231209/e2c8c85b5ecb42a20894c70b34f11648.jpg",
+                "roomNum": "9911977"
+            },
+            {
+                "nickName": "BLV DECO",
+                "icon": "https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",
+                "roomNum": "9912060"
+            },
+            {
+                "nickName": "BLV KEVILL",
+                "icon": "https://sta.vnres.co/file/head/20230910/4ea8b188bb8a8e5c0ecd439656b23f6c.png",
+                "roomNum": "477560"
+            },
+            {
+                "nickName": "BLV KUDO",
+                "icon": "https://sta.vnres.co/file/head/20240922/21645cfb378e3b18ed8c8a3030610e53.jpg",
+                "roomNum": "334434"
+            },
+            {
+                "nickName": "BLV RAM",
+                "icon": "https://sta.vnres.co/file/head/20231111/0378db27e447c04a6a7898c8d6af8fb6.png",
+                "roomNum": "9912077"
+            }
+        ]
+    },
+    {
+        "subCateName": "SPA D1",
+        "hostName": "RC Celta",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/cb73c910718347355f8dd46eb4ab6eef.png",
+        "guestName": "Atletico Madrid",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/f7e0ccbff1830dd24c76185eb9e45377.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "ĐỨC JOKER",
+                "icon": "https://sta.vnres.co/file/head/20240626/d860496a2452ab22ce5fa5eba34d4a4d.jpg",
+                "roomNum": "468304"
+            },
+            {
+                "nickName": "BLV FLY",
+                "icon": "https://sta.vnres.co/file/head/20240901/50fe4c2a46867d791f0de2abd36205b6.jpg",
+                "roomNum": "251797"
+            },
+            {
+                "nickName": "BLV FIREMAN",
+                "icon": "https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",
+                "roomNum": "991140"
+            },
+            {
+                "nickName": "Văn Chuẩn",
+                "icon": "https://sta.vnres.co/file/head/20240428/c96e377524ebf301df3aae34d8accafe.jpg",
+                "roomNum": "389399"
+            },
+            {
+                "nickName": "BLV SÓI",
+                "icon": "https://sta.vnres.co/file/head/20240519/b423c396a447ef3f6d520c72075dfd5b.png",
+                "roomNum": "427562"
+            },
+            {
+                "nickName": "BLV A BỆU",
+                "icon": "https://sta.vnres.co/file/head/20240902/08f2cf5409101eb4839d63ffd357942a.png",
+                "roomNum": "484845"
+            }
+        ]
+    },
+    {
+        "subCateName": "ITA Cup",
+        "hostName": "Napoli",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/bec20c86548ce647dc8c38572ebc57a6.png",
+        "guestName": "Palermo",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/42367031f08fc4998e4bd2c70f5b917b.png",
+        "matchTime": 1727377200000,
+        "anchors": [
+            {
+                "nickName": "BLV PHỞ GÀ",
+                "icon": "https://sta.vnres.co/file/head/20240906/d1cedcd53a37d5f0096ea3fae9ff8946.jpg",
+                "roomNum": "259862"
+            },
+            {
+                "nickName": "SAO LA",
+                "icon": "https://sta.vnres.co/file/head/20240114/50dcc24aeaf86849f7ff1baeb488f02b.jpg",
+                "roomNum": "462413"
+            },
+            {
+                "nickName": "BLV ANH TÀI",
+                "icon": "https://sta.vnres.co/file/head/20240609/9c8f5c2092e7aa77d7368d6309a97143.jpeg",
+                "roomNum": "406865"
+            }
+        ]
+    },
+    {
+        "subCateName": "MEX WD1",
+        "hostName": "Club America (w)",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/7f503a506217182d85963e09278d054a.png",
+        "guestName": "Santos Laguna (w)",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/0130a191e080d125e388a5c3d3c99b00.png",
+        "matchTime": 1727387100000,
+        "anchors": [
+            {
+                "nickName": "BLV 10 CEN",
+                "icon": "https://sta.vnres.co/file/head/20240825/ce6e3d49cf012e27ec8bcbde86d35bb8.jpg",
+                "roomNum": "328239"
+            },
+            {
+                "nickName": "THẦY PHÁN",
+                "icon": "https://sta.vnres.co/file/head/20240709/153f179ed39220b6da0aa93e4fe4d019.jpg",
+                "roomNum": "9912011"
+            }
+        ]
+    },
+    {
+        "subCateName": "LIB Cup",
+        "hostName": "CA Penarol",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/b0b81a1ad16ad86483f9b34c294d4b64.png",
+        "guestName": "CR Flamengo",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/6599e0dc0844454ac30fa9073a0bb5dc.png",
+        "matchTime": 1727388000000,
+        "anchors": [
+            {
+                "nickName": "CR Bưởi",
+                "icon": "https://sta.vnres.co/file/head/20240407/721552ace681d169b9ad9adaf3a71c17.jpg",
+                "roomNum": "387694"
+            },
+            {
+                "nickName": "BLV MESSI",
+                "icon": "https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",
+                "roomNum": "494201"
+            },
+            {
+                "nickName": "BLV HOPE",
+                "icon": "https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",
+                "roomNum": "9912043"
+            },
+            {
+                "nickName": "BLV KAKA",
+                "icon": "https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg",
+                "roomNum": "9912025"
+            },
+            {
+                "nickName": "BLV ZORO",
+                "icon": "https://sta.vnres.co/file/head/20240521/dfe2588f7e11e6ae277692de134117f8.png",
+                "roomNum": "299144"
+            },
+            {
+                "nickName": "BLV LUFFY",
+                "icon": "https://sta.vnres.co/file/head/20240601/61223dfb8070cdf5daf8e125106e5b05.jpg",
+                "roomNum": "400798"
+            }
+        ]
+    },
+    {
+        "subCateName": "BOL D1",
+        "hostName": "Jorge Wilstermann",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/abb1c97f381f261399aa2ee3cef7995d.png",
+        "guestName": "Real Santa Cruz",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/dc814a5556b839e862ff55074293bf6e.png",
+        "matchTime": 1727388000000,
+        "anchors": [
+            {
+                "nickName": "BLV TONY",
+                "icon": "https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",
+                "roomNum": "991117"
+            },
+            {
+                "nickName": "BLV BÁO ĐEN",
+                "icon": "https://sta.vnres.co/file/head/20240319/aba8acda9d3c978c5dfcd2f80b621847.jpg",
+                "roomNum": "329740"
+            }
+        ]
+    },
+    {
+        "subCateName": "BRA D2",
+        "hostName": "Chapecoense SC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/8444c387cfd0457ee737fd9dd4465bf3.png",
+        "guestName": "Amazonas FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/a0a5da0764ae52e907287413f6c9f63e.png",
+        "matchTime": 1727388000000,
+        "anchors": [
+            {
+                "nickName": "BLV Hổ Lùn",
+                "icon": "https://sta.vnres.co/file/head/20240328/c4f0179b32d9bfa45ff40739ef836235.png",
+                "roomNum": "308080"
+            },
+            {
+                "nickName": "BLV Chân Gỗ",
+                "icon": "https://sta.vnres.co/file/head/20240605/b0fc4f53aa9382e64bbfddf2b6967644.jpg",
+                "roomNum": "381230"
+            }
+        ]
+    },
+    {
+        "subCateName": "COL D1",
+        "hostName": "Independiente Santa Fe",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/731184cbef34ff3753eee9904f1ab697.png",
+        "guestName": "Alianza",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/46c579e140f77f496300feb23024eda5.png",
+        "matchTime": 1727393400000,
+        "anchors": [
+            {
+                "nickName": "BLV BÉO",
+                "icon": "https://sta.vnres.co/file/head/20240912/962848465a28eff51624e1e69601dee7.jpg",
+                "roomNum": "459401"
+            },
+            {
+                "nickName": "PHI HÀNH",
+                "icon": "https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",
+                "roomNum": "9911957"
+            },
+            {
+                "nickName": "MÁT GAI",
+                "icon": "https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",
+                "roomNum": "273067"
+            },
+            {
+                "nickName": "BLV GÔN",
+                "icon": "https://sta.vnres.co/file/head/20240315/315deb844d3126af6f53f08943ef6230.jpg",
+                "roomNum": "445260"
+            }
+        ]
+    },
+    {
+        "subCateName": "BOL D1",
+        "hostName": "Blooming",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/71b95db9a3a0eb5f019abfe5e28a5300.png",
+        "guestName": "Always Ready",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/e1fa3612bef49ec76634dc6b3d853e52.png",
+        "matchTime": 1727395200000,
+        "anchors": [
+            {
+                "nickName": "BLV JINDO",
+                "icon": "https://sta.vnres.co/file/head/20240531/3852caa24b9fb582fbee957f22306c0f.jpg",
+                "roomNum": "488346"
+            },
+            {
+                "nickName": "BLV ODIN",
+                "icon": "https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",
+                "roomNum": "9912098"
+            }
+        ]
+    },
+    {
+        "subCateName": "LNBP",
+        "hostName": "El Calor de Cancun",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/7b5a37ef4eaa622452c1ed4ffa892d27.png",
+        "guestName": "Plateros",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/58da94f4ff1a44ef77db9acc703aa763.png",
+        "matchTime": 1727396100000,
+        "anchors": [
+            {
+                "nickName": "BLV DUSTIN",
+                "icon": "https://sta.vnres.co/file/head/20231019/d1d543b4257180e32ad1516d75650ba4.jpg",
+                "roomNum": "289098"
+            },
+            {
+                "nickName": "BLV AKIRA",
+                "icon": "https://sta.vnres.co/file/head/20231020/7d27de9a0ad8d85597b60bd69c78a7ad.jpg",
+                "roomNum": "359960"
+            }
+        ]
+    },
+    {
+        "subCateName": "CON CSA",
+        "hostName": "Racing Club de Avellaneda",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/5fc029fe68e673fb7a2a7fe2c16d6cae.png",
+        "guestName": "Athletico Paranaense",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/e8a52b1291619d715e8e413dbf3f0292.png",
+        "matchTime": 1727397000000,
+        "anchors": [
+            {
+                "nickName": "BLV  TYPN",
+                "icon": "https://sta.vnres.co/file/head/20240520/dad721f9950cada5ceede5beca4d4d11.jpg",
+                "roomNum": "9912009"
+            },
+            {
+                "nickName": "BLV ADAM",
+                "icon": "https://sta.vnres.co/file/head/20240206/f266c2b178b3fd49f40c11c4c2526c9a.jpg",
+                "roomNum": "336303"
+            },
+            {
+                "nickName": "BLV AK47",
+                "icon": "https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",
+                "roomNum": "9912092"
+            },
+            {
+                "nickName": "BLV TONY",
+                "icon": "https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",
+                "roomNum": "991117"
+            }
+        ]
+    },
+    {
+        "subCateName": "CON CSA",
+        "hostName": "Cruzeiro Esporte Clube",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/2b3d00a6c9728160ab55b556c300c9ca.png",
+        "guestName": "Libertad",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/8626c50ea49afdaae74cb0a2644719a6.png",
+        "matchTime": 1727397000000,
+        "anchors": [
+            {
+                "nickName": "BLV MESSI",
+                "icon": "https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",
+                "roomNum": "494201"
+            },
+            {
+                "nickName": "BLV HOPE",
+                "icon": "https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",
+                "roomNum": "9912043"
+            },
+            {
+                "nickName": "BLV GẤU",
+                "icon": "https://sta.vnres.co/file/head/20240701/15c83996eeae70bd6ed2a3132c3a4f8d.jpg",
+                "roomNum": "304297"
+            },
+            {
+                "nickName": "BLV ENZO",
+                "icon": "https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg",
+                "roomNum": "380460"
+            }
+        ]
+    },
+    {
+        "subCateName": "MEX D2",
+        "hostName": "Correcaminos UAT",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/77c0ee7a940c82f5f1512caeda1e3cd0.png",
+        "guestName": "Mineros de Zacatecas",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/940e4a9f7db5a2a75d354983e1e47389.png",
+        "matchTime": 1727398800000,
+        "anchors": [
+            {
+                "nickName": "BLV LUFFY",
+                "icon": "https://sta.vnres.co/file/head/20240601/61223dfb8070cdf5daf8e125106e5b05.jpg",
+                "roomNum": "400798"
+            },
+            {
+                "nickName": "BLV SIMBA",
+                "icon": "https://sta.vnres.co/file/head/20240912/14fa95d73320314bda860e0ec84ca07c.jpg",
+                "roomNum": "337575"
+            }
+        ]
+    },
+    {
+        "subCateName": "MEX WD1",
+        "hostName": "Unam Pumas (w)",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/2c8400fd2fe54dff79aff2ebc3fc92f7.png",
+        "guestName": "Chivas Guadalajara (w)",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/1e39a939fe30b442a2cbd38c2ab4f44b.png",
+        "matchTime": 1727398800000,
+        "anchors": [
+            {
+                "nickName": "BLV 10 CEN",
+                "icon": "https://sta.vnres.co/file/head/20240825/ce6e3d49cf012e27ec8bcbde86d35bb8.jpg",
+                "roomNum": "328239"
+            },
+            {
+                "nickName": "THẦY PHÁN",
+                "icon": "https://sta.vnres.co/file/head/20240709/153f179ed39220b6da0aa93e4fe4d019.jpg",
+                "roomNum": "9912011"
+            }
+        ]
+    },
+    {
+        "subCateName": "MEX WD1",
+        "hostName": "Pachuca (w)",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/11ce121faadc71982801b6e2ead74cbe.png",
+        "guestName": "Puebla (w)",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/ed64a7d22544bf8df12ed5b58a700120.png",
+        "matchTime": 1727399100000,
+        "anchors": [
+            {
+                "nickName": "BLV Chân Gỗ",
+                "icon": "https://sta.vnres.co/file/head/20240605/b0fc4f53aa9382e64bbfddf2b6967644.jpg",
+                "roomNum": "381230"
+            },
+            {
+                "nickName": "BLV ZICO",
+                "icon": "https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg",
+                "roomNum": "9912081"
+            },
+            {
+                "nickName": "RICKHANTER",
+                "icon": "https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",
+                "roomNum": "9912101"
+            },
+            {
+                "nickName": "BLV SINGER",
+                "icon": "https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",
+                "roomNum": "9912089"
+            }
+        ]
+    },
+    {
+        "subCateName": "COL D1",
+        "hostName": "Atletico Nacional Medellin",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/0194dcaa5a8ee929776409339aac1ac6.png",
+        "guestName": "Atletico Junior Barranquilla",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/982936b28417a577c57445821492b0cb.png",
+        "matchTime": 1727400600000,
+        "anchors": [
+            {
+                "nickName": "BLV MIXI",
+                "icon": "https://sta.vnres.co/file/head/20240513/a35138d0a87939ce9b0cac7ad3ad94be.jpg",
+                "roomNum": "290928"
+            },
+            {
+                "nickName": "CR Bưởi",
+                "icon": "https://sta.vnres.co/file/head/20240407/721552ace681d169b9ad9adaf3a71c17.jpg",
+                "roomNum": "387694"
+            },
+            {
+                "nickName": "BLV KAKA",
+                "icon": "https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg",
+                "roomNum": "9912025"
+            },
+            {
+                "nickName": "BLV ZORO",
+                "icon": "https://sta.vnres.co/file/head/20240521/dfe2588f7e11e6ae277692de134117f8.png",
+                "roomNum": "299144"
+            }
+        ]
+    },
+    {
+        "subCateName": "CNCF CACup",
+        "hostName": "C.S.D. Comunicaciones",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/7d893138b0c34a00d8fd834e48f54daf.png",
+        "guestName": "Alajuelense",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/8426c51df9462bbfbaa4b447be671d7f.png",
+        "matchTime": 1727402700000,
+        "anchors": [
+            {
+                "nickName": "A PÁO",
+                "icon": "https://sta.vnres.co/file/head/20240605/282c2bcf30f6aa9917537b170e5cb3bd.jpeg",
+                "roomNum": "235232"
+            },
+            {
+                "nickName": "BLV BÁO ĐEN",
+                "icon": "https://sta.vnres.co/file/head/20240319/aba8acda9d3c978c5dfcd2f80b621847.jpg",
+                "roomNum": "329740"
+            },
+            {
+                "nickName": "BLV BÉO",
+                "icon": "https://sta.vnres.co/file/head/20240912/962848465a28eff51624e1e69601dee7.jpg",
+                "roomNum": "459401"
+            },
+            {
+                "nickName": "PHI HÀNH",
+                "icon": "https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",
+                "roomNum": "9911957"
+            }
+        ]
+    },
+    {
+        "subCateName": "MEX WD1",
+        "hostName": "Tigres (w)",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/c9606a9762fba9cf6272606bd9e6ee29.png",
+        "guestName": "Cruz Azul (w)",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/0aabd1675df3a47f6662d61f8decc83b.png",
+        "matchTime": 1727406000000,
+        "anchors": [
+            {
+                "nickName": "BLV RICARDO",
+                "icon": "https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg",
+                "roomNum": "9912052"
+            },
+            {
+                "nickName": "BLV CRIS",
+                "icon": "https://sta.vnres.co/file/head/20231110/053fecd105594fbc1bbd33888e39391b.jpg",
+                "roomNum": "499765"
+            },
+            {
+                "nickName": "BLV CÁ",
+                "icon": "https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",
+                "roomNum": "9912093"
+            },
+            {
+                "nickName": "BLV LONG",
+                "icon": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",
+                "roomNum": "9912050"
+            },
+            {
+                "nickName": "BLV CUỘI",
+                "icon": "https://sta.vnres.co/file/head/20240603/d34e97127bdca6842285fcf2a8b9d6c4.jpeg",
+                "roomNum": "256080"
+            },
+            {
+                "nickName": "BLV TAP",
+                "icon": "https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",
+                "roomNum": "9912041"
+            }
+        ]
+    },
+    {
+        "subCateName": "LNBP",
+        "hostName": "Soles",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/8f33923d39dfbdb48a650c9fe709d8aa.png",
+        "guestName": "Panteras",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/65ddbc4cad44a08a36771ffdc000c512.png",
+        "matchTime": 1727406000000,
+        "anchors": [
+            {
+                "nickName": "BLV AKIRA",
+                "icon": "https://sta.vnres.co/file/head/20231020/7d27de9a0ad8d85597b60bd69c78a7ad.jpg",
+                "roomNum": "359960"
+            },
+            {
+                "nickName": "BLV HENRY",
+                "icon": "https://sta.vnres.co/file/head/20240823/932df60bfe7b6b855b402474d1f070a5.jpg",
+                "roomNum": "428392"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Bahrain U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/1b291bd8ad68cca72990401f91079c75.png",
+        "guestName": "Nepal U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/5d223cbea7e6c70b68504508320ee5d9.png",
+        "matchTime": 1727420400000,
+        "anchors": [
+            {
+                "nickName": "BLV  TYPN",
+                "icon": "https://sta.vnres.co/file/head/20240520/dad721f9950cada5ceede5beca4d4d11.jpg",
+                "roomNum": "9912009"
+            },
+            {
+                "nickName": "BLV CÁ",
+                "icon": "https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",
+                "roomNum": "9912093"
+            },
+            {
+                "nickName": "BLV RAM",
+                "icon": "https://sta.vnres.co/file/head/20231111/0378db27e447c04a6a7898c8d6af8fb6.png",
+                "roomNum": "9912077"
+            },
+            {
+                "nickName": "BLV PIRLO",
+                "icon": "https://sta.vnres.co/file/head/20231029/ee97111f1621fdb6dff44cb21741b988.jpeg",
+                "roomNum": "351530"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Maldives U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/d5176cd32b3253f1f00d574a86312ace.png",
+        "guestName": "Yemen U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/7fa570e3496fce750f8f6c44c1166454.png",
+        "matchTime": 1727424000000,
+        "anchors": [
+            {
+                "nickName": "BLV PELE",
+                "icon": "https://sta.vnres.co/file/head/20231219/57f3648d741a244b4717c05f9380a20b.png",
+                "roomNum": "9912003"
+            },
+            {
+                "nickName": "BLV GÔN",
+                "icon": "https://sta.vnres.co/file/head/20240315/315deb844d3126af6f53f08943ef6230.jpg",
+                "roomNum": "445260"
+            }
+        ]
+    },
+    {
+        "subCateName": "IDN D1",
+        "hostName": "Bali United",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/137dcffae64b96905a9c3229b4d1cd68.png",
+        "guestName": "Barito Putera",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/a3fab5d7a24cf59dd504c8d32955f958.png",
+        "matchTime": 1727425800000,
+        "anchors": [
+            {
+                "nickName": "RICKHANTER",
+                "icon": "https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",
+                "roomNum": "9912101"
+            },
+            {
+                "nickName": "BLV Củ Cải",
+                "icon": "https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",
+                "roomNum": "9912091"
+            },
+            {
+                "nickName": "TẠ BIÊN GIỚI",
+                "icon": "https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",
+                "roomNum": "9912096"
+            },
+            {
+                "nickName": "BLV CUỘI",
+                "icon": "https://sta.vnres.co/file/head/20240603/d34e97127bdca6842285fcf2a8b9d6c4.jpeg",
+                "roomNum": "256080"
+            },
+            {
+                "nickName": "BLV FANTA",
+                "icon": "https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",
+                "roomNum": "9912048"
+            },
+            {
+                "nickName": "BLV DECO",
+                "icon": "https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",
+                "roomNum": "9912060"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Philippines U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/f3f0cfda7b8ede223b541321a20397dd.png",
+        "guestName": "Iraq  U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/772d337fbd7252db74d8c255382db1e2.png",
+        "matchTime": 1727425800000,
+        "anchors": [
+            {
+                "nickName": "BLV 10 CEN",
+                "icon": "https://sta.vnres.co/file/head/20240825/ce6e3d49cf012e27ec8bcbde86d35bb8.jpg",
+                "roomNum": "328239"
+            },
+            {
+                "nickName": "BLV FLY",
+                "icon": "https://sta.vnres.co/file/head/20240901/50fe4c2a46867d791f0de2abd36205b6.jpg",
+                "roomNum": "251797"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "India U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/149b16f686c0d9fca1403879a33637b1.png",
+        "guestName": "Iran U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/56a01069015739cfc33aac980898bdb7.png",
+        "matchTime": 1727427600000,
+        "anchors": [
+            {
+                "nickName": "BLV JINDO",
+                "icon": "https://sta.vnres.co/file/head/20240531/3852caa24b9fb582fbee957f22306c0f.jpg",
+                "roomNum": "488346"
+            },
+            {
+                "nickName": "BLV JAXLIE",
+                "icon": "https://sta.vnres.co/file/head/20240828/3b43c36169bd2276704493db69cefda1.jpg",
+                "roomNum": "365798"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Syria U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/bffb19442324e2105ae8afc1272d7d71.png",
+        "guestName": "Guam U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/e2d8949506da4a8f4d8bb350af105fc4.png",
+        "matchTime": 1727427600000,
+        "anchors": [
+            {
+                "nickName": "BLV PHỞ GÀ",
+                "icon": "https://sta.vnres.co/file/head/20240906/d1cedcd53a37d5f0096ea3fae9ff8946.jpg",
+                "roomNum": "259862"
+            },
+            {
+                "nickName": "NGỘ KHÔNG",
+                "icon": "https://sta.vnres.co/file/head/20240910/cc683c97e5e53467c3dbb4c8ae1f852c.png",
+                "roomNum": "459066"
+            }
+        ]
+    },
+    {
+        "subCateName": "PBGC",
+        "hostName": "Rain or Shine Elasto Painters",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/98eb593df94703403815460fad627975.png",
+        "guestName": "Magnolia Hotshots",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/949c506a833c0571ca48ffca0ad4a12e.png",
+        "matchTime": 1727427600000,
+        "anchors": [
+            {
+                "nickName": "BLV AKIRA",
+                "icon": "https://sta.vnres.co/file/head/20231020/7d27de9a0ad8d85597b60bd69c78a7ad.jpg",
+                "roomNum": "359960"
+            },
+            {
+                "nickName": "BLV HENRY",
+                "icon": "https://sta.vnres.co/file/head/20240823/932df60bfe7b6b855b402474d1f070a5.jpg",
+                "roomNum": "428392"
+            }
+        ]
+    },
+    {
+        "subCateName": "NBL",
+        "hostName": "Illawarra Hawks",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/daf1ed65be6de93b5a918a280cb659ed.png",
+        "guestName": "Brisbane Bullets",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/c41dc3ea3bf2346dd675316a9d5fa8f9.png",
+        "matchTime": 1727429400000,
+        "anchors": [
+            {
+                "nickName": "BLV BEAN",
+                "icon": "https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",
+                "roomNum": "166054"
+            },
+            {
+                "nickName": "BLV DUSTIN",
+                "icon": "https://sta.vnres.co/file/head/20231019/d1d543b4257180e32ad1516d75650ba4.jpg",
+                "roomNum": "289098"
+            },
+            {
+                "nickName": "KING",
+                "icon": "https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",
+                "roomNum": "9912099"
+            },
+            {
+                "nickName": "BRIAN",
+                "icon": "https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",
+                "roomNum": "122591"
+            }
+        ]
+    },
+    {
+        "subCateName": "JPN D1",
+        "hostName": "Kawasaki Frontale",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/111e524b226d6b84b9a95fee2605e86c.png",
+        "guestName": "Albirex Niigata",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/6e4dce48f5113b8f0226e2bfd4317f83.png",
+        "matchTime": 1727431200000,
+        "anchors": [
+            {
+                "nickName": "BLV CÁ",
+                "icon": "https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",
+                "roomNum": "9912093"
+            },
+            {
+                "nickName": "BLV LONG",
+                "icon": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",
+                "roomNum": "9912050"
+            },
+            {
+                "nickName": "TAM MAO",
+                "icon": "https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",
+                "roomNum": "9912100"
+            },
+            {
+                "nickName": "BLV LOGAN",
+                "icon": "https://sta.vnres.co/file/head/20231209/e2c8c85b5ecb42a20894c70b34f11648.jpg",
+                "roomNum": "9911977"
+            },
+            {
+                "nickName": "BLV RICARDO",
+                "icon": "https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg",
+                "roomNum": "9912052"
+            },
+            {
+                "nickName": "BLV KEVILL",
+                "icon": "https://sta.vnres.co/file/head/20230910/4ea8b188bb8a8e5c0ecd439656b23f6c.png",
+                "roomNum": "477560"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Myanmar U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/65df17575d6615f080580bdda3277821.png",
+        "guestName": "Japan U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/956a6b6662e90aa03549dfe2340760f3.png",
+        "matchTime": 1727431200000,
+        "anchors": [
+            {
+                "nickName": "BLV CAPIE",
+                "icon": "https://sta.vnres.co/file/head/20240901/bea6fa92eb67cca408ccdadb9b228237.jpg",
+                "roomNum": "266095"
+            },
+            {
+                "nickName": "BLV ENZO",
+                "icon": "https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg",
+                "roomNum": "380460"
+            }
+        ]
+    },
+    {
+        "subCateName": "KOR D1",
+        "hostName": "Daejeon Citizen",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/4d48e8790bafe03e9ea91fbf0a018785.png",
+        "guestName": "Ulsan HD FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/fe7eda07d0c14f029e1433e5c441c47a.png",
+        "matchTime": 1727433000000,
+        "anchors": [
+            {
+                "nickName": "BLV PEWPEW",
+                "icon": "https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",
+                "roomNum": "9912015"
+            },
+            {
+                "nickName": "A PÁO",
+                "icon": "https://sta.vnres.co/file/head/20240605/282c2bcf30f6aa9917537b170e5cb3bd.jpeg",
+                "roomNum": "235232"
+            },
+            {
+                "nickName": "BLV DUBAI",
+                "icon": "https://sta.vnres.co/file/head/20240616/fcc16e32f10d290ebf5c03de3a65dd30.jpeg",
+                "roomNum": "364855"
+            },
+            {
+                "nickName": "THẠCH TÚ",
+                "icon": "https://sta.vnres.co/file/head/20240312/68ef536d79246cefb24db9504c91f313.jpg",
+                "roomNum": "344370"
+            }
+        ]
+    },
+    {
+        "subCateName": "KOR D1",
+        "hostName": "Pohang Steelers",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/8276bc62fac3184e7046bd779467b926.png",
+        "guestName": "Incheon United Club",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/3766f9f150f6b154fb11ff58a00d5d42.png",
+        "matchTime": 1727433000000,
+        "anchors": [
+            {
+                "nickName": "BLV KUDO",
+                "icon": "https://sta.vnres.co/file/head/20240922/21645cfb378e3b18ed8c8a3030610e53.jpg",
+                "roomNum": "334434"
+            },
+            {
+                "nickName": "BLV PICASSO",
+                "icon": "https://sta.vnres.co/file/head/20230822/02d95be00e123acae6282e2730965ddf.jpg",
+                "roomNum": "427856"
+            },
+            {
+                "nickName": "BLV SÓI",
+                "icon": "https://sta.vnres.co/file/head/20240519/b423c396a447ef3f6d520c72075dfd5b.png",
+                "roomNum": "427562"
+            },
+            {
+                "nickName": "BLV ĐỐM",
+                "icon": "https://sta.vnres.co/file/head/20231105/2cde19ee6fcf4eb1fb0b0accf5569f54.jpg",
+                "roomNum": "434982"
+            }
+        ]
+    },
+    {
+        "subCateName": "THA PR",
+        "hostName": "Muang Thong United",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/54e6de025125995d6318d0d65286a876.png",
+        "guestName": "Khonkaen United",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/66e433d0259cf2bf1fd4299588e3fce4.png",
+        "matchTime": 1727434800000,
+        "anchors": [
+            {
+                "nickName": "BIN BIN",
+                "icon": "https://sta.vnres.co/file/head/20240105/5c7be8449c0379231050f6e18353cb4d.jpeg",
+                "roomNum": "486629"
+            },
+            {
+                "nickName": "BLV ADAM",
+                "icon": "https://sta.vnres.co/file/head/20240206/f266c2b178b3fd49f40c11c4c2526c9a.jpg",
+                "roomNum": "336303"
+            },
+            {
+                "nickName": "BLV FANTA",
+                "icon": "https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",
+                "roomNum": "9912048"
+            },
+            {
+                "nickName": "BLV BÉO",
+                "icon": "https://sta.vnres.co/file/head/20240912/962848465a28eff51624e1e69601dee7.jpg",
+                "roomNum": "459401"
+            }
+        ]
+    },
+    {
+        "subCateName": "CHA D1",
+        "hostName": "Qingdao Red Lions",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/162fe8ea9b072bad4da028c31b6dc923.png",
+        "guestName": "Guangzhou FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/15ca8afcd63906b345e21258290b1a3e.png",
+        "matchTime": 1727436600000,
+        "anchors": [
+            {
+                "nickName": "A CHÈ",
+                "icon": "https://sta.vnres.co/file/head/20240521/1c640ff8f1c7705632bd5d648860157f.jpeg",
+                "roomNum": "356042"
+            },
+            {
+                "nickName": "BLV VIP",
+                "icon": "https://sta.vnres.co/file/head/20240722/46c7ce83a08d807534130c2e8d33c028.jpg",
+                "roomNum": "491873"
+            }
+        ]
+    },
+    {
+        "subCateName": "NBL",
+        "hostName": "Perth",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/5b5f2a546d9adf41a484f988ffbf56e1.png",
+        "guestName": "Sydney",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/713a9eab52d293bce439c7acd167b31b.png",
+        "matchTime": 1727436600000,
+        "anchors": [
+            {
+                "nickName": "BLV BEAN",
+                "icon": "https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",
+                "roomNum": "166054"
+            },
+            {
+                "nickName": "BLV DUSTIN",
+                "icon": "https://sta.vnres.co/file/head/20231019/d1d543b4257180e32ad1516d75650ba4.jpg",
+                "roomNum": "289098"
+            },
+            {
+                "nickName": "KING",
+                "icon": "https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",
+                "roomNum": "9912099"
+            },
+            {
+                "nickName": "BRIAN",
+                "icon": "https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",
+                "roomNum": "122591"
+            }
+        ]
+    },
+    {
+        "subCateName": "SIN D1",
+        "hostName": "Hougang United FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/e7ba02a2005db00cdab58945646bf714.png",
+        "guestName": "DPMM FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/b67ec7041c788a2d38351769490d2588.png",
+        "matchTime": 1727437500000,
+        "anchors": [
+            {
+                "nickName": "BLV SHOGUN",
+                "icon": "https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",
+                "roomNum": "9912007"
+            },
+            {
+                "nickName": "Văn Chuẩn",
+                "icon": "https://sta.vnres.co/file/head/20240428/c96e377524ebf301df3aae34d8accafe.jpg",
+                "roomNum": "389399"
+            }
+        ]
+    },
+    {
+        "subCateName": "IDN D1",
+        "hostName": "Persebaya Surabaya",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/7a35b28b1e1de80526563c9ee4aa5826.png",
+        "guestName": "Dewa United FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/5f9753107db56bc1d70ca9c8c296efab.png",
+        "matchTime": 1727438400000,
+        "anchors": [
+            {
+                "nickName": "BLV SINGER",
+                "icon": "https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",
+                "roomNum": "9912089"
+            },
+            {
+                "nickName": "BLV AK47",
+                "icon": "https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",
+                "roomNum": "9912092"
+            },
+            {
+                "nickName": "BLV STING",
+                "icon": "https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png",
+                "roomNum": "9912016"
+            },
+            {
+                "nickName": "BLV VITAMIN",
+                "icon": "https://sta.vnres.co/file/head/20240328/2a3a9f105c9849eca502de473e711a18.jpg",
+                "roomNum": "400722"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Bangladesh U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/e7a8145b8753306f637513a061dca7a4.png",
+        "guestName": "Vietnam U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/826500d3e8fdfa8d2ffc850729ac362d.png",
+        "matchTime": 1727438400000,
+        "anchors": [
+            {
+                "nickName": "TẠ BIÊN GIỚI",
+                "icon": "https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",
+                "roomNum": "9912096"
+            },
+            {
+                "nickName": "BLV CUỘI",
+                "icon": "https://sta.vnres.co/file/head/20240603/d34e97127bdca6842285fcf2a8b9d6c4.jpeg",
+                "roomNum": "256080"
+            },
+            {
+                "nickName": "BLV TAP",
+                "icon": "https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",
+                "roomNum": "9912041"
+            },
+            {
+                "nickName": "BLV RICARDO",
+                "icon": "https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg",
+                "roomNum": "9912052"
+            },
+            {
+                "nickName": "BLV CRIS",
+                "icon": "https://sta.vnres.co/file/head/20231110/053fecd105594fbc1bbd33888e39391b.jpg",
+                "roomNum": "499765"
+            },
+            {
+                "nickName": "BLV TOMIA",
+                "icon": "https://sta.vnres.co/file/head/20240204/1f53f98ccfe232cc3f21173786fc61cf.jpg",
+                "roomNum": "9912008"
+            }
+        ]
+    },
+    {
+        "subCateName": "THA PR",
+        "hostName": "Bangkok United FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/858cfd1b226c06e8b6271bd74d81d7f1.png",
+        "guestName": "Ratchaburi Mitr Phol FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/aaf575e9b9692ba6d160ea883fa15330.png",
+        "matchTime": 1727438400000,
+        "anchors": [
+            {
+                "nickName": "BLV KAN",
+                "icon": "https://sta.vnres.co/file/head/20240503/ae6c3229953d0a2ba450d5924a8f1de8.jpg",
+                "roomNum": "283501"
+            },
+            {
+                "nickName": "SÙNG A MÚP",
+                "icon": "https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",
+                "roomNum": "9912097"
+            },
+            {
+                "nickName": "RICKHANTER",
+                "icon": "https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",
+                "roomNum": "9912101"
+            },
+            {
+                "nickName": "MÁT GAI",
+                "icon": "https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",
+                "roomNum": "273067"
+            }
+        ]
+    },
+    {
+        "subCateName": "MAS SL",
+        "hostName": "Johor Darul Ta'zim FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/27eb972cb9faf8ba569e07051202b7ef.png",
+        "guestName": "Kuching City FC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/365f676e11444d10fa59bdd7c7d58a8c.png",
+        "matchTime": 1727439300000,
+        "anchors": [
+            {
+                "nickName": "BLV ZICO",
+                "icon": "https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg",
+                "roomNum": "9912081"
+            },
+            {
+                "nickName": "BLV A BỆU",
+                "icon": "https://sta.vnres.co/file/head/20240902/08f2cf5409101eb4839d63ffd357942a.png",
+                "roomNum": "484845"
+            },
+            {
+                "nickName": "BLV GẤU",
+                "icon": "https://sta.vnres.co/file/head/20240701/15c83996eeae70bd6ed2a3132c3a4f8d.jpg",
+                "roomNum": "304297"
+            },
+            {
+                "nickName": "PHI HÀNH",
+                "icon": "https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",
+                "roomNum": "9911957"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Brunei Darussalam U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/1e9d5d834b55a7946bc9da729354afed.png",
+        "guestName": "Thailand U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/a9a1d7d7e11c3fb01c6e778fe4a0c5f6.png",
+        "matchTime": 1727440200000,
+        "anchors": [
+            {
+                "nickName": "BLV MIXI",
+                "icon": "https://sta.vnres.co/file/head/20240513/a35138d0a87939ce9b0cac7ad3ad94be.jpg",
+                "roomNum": "290928"
+            },
+            {
+                "nickName": "SAO LA",
+                "icon": "https://sta.vnres.co/file/head/20240114/50dcc24aeaf86849f7ff1baeb488f02b.jpg",
+                "roomNum": "462413"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Timor Leste U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/1cecb3ff3e6a64514da7e6d988a716cb.png",
+        "guestName": "Indonesia U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/7d892daa9970d04ebf8db4982020e1f1.png",
+        "matchTime": 1727440200000,
+        "anchors": [
+            {
+                "nickName": "BLV JAXLIE",
+                "icon": "https://sta.vnres.co/file/head/20240828/3b43c36169bd2276704493db69cefda1.jpg",
+                "roomNum": "365798"
+            },
+            {
+                "nickName": "BLV TONY",
+                "icon": "https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",
+                "roomNum": "991117"
+            }
+        ]
+    },
+    {
+        "subCateName": "AFC U20",
+        "hostName": "Palestine U20",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/95f76c6c86796e14d0217e0a56508422.png",
+        "guestName": "Australia U20",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/586cb61e8de9ea0bb521aa47fe8b7c8d.png",
+        "matchTime": 1727442000000,
+        "anchors": [
+            {
+                "nickName": "BLV CAPIE",
+                "icon": "https://sta.vnres.co/file/head/20240901/bea6fa92eb67cca408ccdadb9b228237.jpg",
+                "roomNum": "266095"
+            },
+            {
+                "nickName": "THẦY PHÁN",
+                "icon": "https://sta.vnres.co/file/head/20240709/153f179ed39220b6da0aa93e4fe4d019.jpg",
+                "roomNum": "9912011"
+            }
+        ]
+    },
+    {
+        "subCateName": "UAE LP",
+        "hostName": "Ajman",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/32a3f718e2e9e9f989bef7709ec4211b.png",
+        "guestName": "Dibba Al-Hisn",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/5b7e1b7a51d5f0f281893ce93ca707e2.png",
+        "matchTime": 1727443200000,
+        "anchors": [
+            {
+                "nickName": "BLV BÁO ĐEN",
+                "icon": "https://sta.vnres.co/file/head/20240319/aba8acda9d3c978c5dfcd2f80b621847.jpg",
+                "roomNum": "329740"
+            },
+            {
+                "nickName": "THẠCH TÚ",
+                "icon": "https://sta.vnres.co/file/head/20240312/68ef536d79246cefb24db9504c91f313.jpg",
+                "roomNum": "344370"
+            },
+            {
+                "nickName": "BLV TÁO",
+                "icon": "https://sta.vnres.co/file/head/20240501/f3806d4a9588a6cca76206c4bc8d4681.jpg",
+                "roomNum": "479849"
+            },
+            {
+                "nickName": "BLV PIRLO",
+                "icon": "https://sta.vnres.co/file/head/20231029/ee97111f1621fdb6dff44cb21741b988.jpeg",
+                "roomNum": "351530"
+            }
+        ]
+    },
+    {
+        "subCateName": "UAE LP",
+        "hostName": "Al Orooba(UAE)",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/9e9ee38494ece338258e55776d4739d9.png",
+        "guestName": "Shabab AlAhli",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/badc2563de4c5f3b04f82173f058133d.png",
+        "matchTime": 1727443200000,
+        "anchors": [
+            {
+                "nickName": "BLV KUDO",
+                "icon": "https://sta.vnres.co/file/head/20240922/21645cfb378e3b18ed8c8a3030610e53.jpg",
+                "roomNum": "334434"
+            },
+            {
+                "nickName": "BLV PICASSO",
+                "icon": "https://sta.vnres.co/file/head/20230822/02d95be00e123acae6282e2730965ddf.jpg",
+                "roomNum": "427856"
+            },
+            {
+                "nickName": "BLV TOMMY",
+                "icon": "https://sta.vnres.co/file/head/20240227/9d9b326c7ac20bff96ced5de9444331b.jpeg",
+                "roomNum": "414317"
+            },
+            {
+                "nickName": "BLV PEWPEW",
+                "icon": "https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",
+                "roomNum": "9912015"
+            }
+        ]
+    },
+    {
+        "subCateName": "RUS D1",
+        "hostName": "Gazovik Orenburg",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/8bda3c58e9aa2698115b8501e537a620.png",
+        "guestName": "FC Pari Nizhniy Novgorod",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/845f20bb8846189aefdb5a9863938292.png",
+        "matchTime": 1727443800000,
+        "anchors": [
+            {
+                "nickName": "BIN BIN",
+                "icon": "https://sta.vnres.co/file/head/20240105/5c7be8449c0379231050f6e18353cb4d.jpeg",
+                "roomNum": "486629"
+            },
+            {
+                "nickName": "BLV MESSI",
+                "icon": "https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",
+                "roomNum": "494201"
+            },
+            {
+                "nickName": "BLV LUCAS",
+                "icon": "https://sta.vnres.co/file/head/20240622/cc68dfc01b8d17308feea1e40a7ffe5f.jpg",
+                "roomNum": "304148"
+            },
+            {
+                "nickName": "BLV STING",
+                "icon": "https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png",
+                "roomNum": "9912016"
+            }
+        ]
+    },
+    {
+        "subCateName": "KAZ PR",
+        "hostName": "Ordabasy",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/32654b9db2408f6a480d020a120f2e80.png",
+        "guestName": "Turan",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/97f8cbb3bfbd6cff077f8ccb7687c42d.png",
+        "matchTime": 1727445600000,
+        "anchors": [
+            {
+                "nickName": "BLV PELE",
+                "icon": "https://sta.vnres.co/file/head/20231219/57f3648d741a244b4717c05f9380a20b.png",
+                "roomNum": "9912003"
+            },
+            {
+                "nickName": "NGỘ KHÔNG",
+                "icon": "https://sta.vnres.co/file/head/20240910/cc683c97e5e53467c3dbb4c8ae1f852c.png",
+                "roomNum": "459066"
+            }
+        ]
+    },
+    {
+        "subCateName": "IND SL",
+        "hostName": "East Bengal FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/079bfc1216281772de97aabee1a81015.png",
+        "guestName": "FC Goa",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/a523779c728e5055599bc8088b292d50.png",
+        "matchTime": 1727445600000,
+        "anchors": [
+            {
+                "nickName": "BLV JINDO",
+                "icon": "https://sta.vnres.co/file/head/20240531/3852caa24b9fb582fbee957f22306c0f.jpg",
+                "roomNum": "488346"
+            },
+            {
+                "nickName": "BLV FANTOM",
+                "icon": "https://sta.vnres.co/file/head/20240919/4ecec723fd35ac70d93bdc0253fe8e07.jpg",
+                "roomNum": "326682"
+            }
+        ]
+    },
+    {
+        "subCateName": "BUL D1",
+        "hostName": "Lokomotiv Sofia",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/e98b16946d453b578e14cb40bee7506e.png",
+        "guestName": "FC Hebar Pazardzhik",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/44f5b0728ea45a31c39b579af79c9971.png",
+        "matchTime": 1727447400000,
+        "anchors": [
+            {
+                "nickName": "BLV GẤU",
+                "icon": "https://sta.vnres.co/file/head/20240701/15c83996eeae70bd6ed2a3132c3a4f8d.jpg",
+                "roomNum": "304297"
+            },
+            {
+                "nickName": "BLV RAM",
+                "icon": "https://sta.vnres.co/file/head/20231111/0378db27e447c04a6a7898c8d6af8fb6.png",
+                "roomNum": "9912077"
+            }
+        ]
+    },
+    {
+        "subCateName": "FIN D1",
+        "hostName": "Gnistan Helsinki",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/b5d2b8dda63f1d0bfae0ec1667494412.png",
+        "guestName": "AC Oulu",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/4cf5db36683af9760be4eb6b5eff1dc0.png",
+        "matchTime": 1727449200000,
+        "anchors": [
+            {
+                "nickName": "BLV FIREMAN",
+                "icon": "https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",
+                "roomNum": "991140"
+            },
+            {
+                "nickName": "BLV Chân Gỗ",
+                "icon": "https://sta.vnres.co/file/head/20240605/b0fc4f53aa9382e64bbfddf2b6967644.jpg",
+                "roomNum": "381230"
+            },
+            {
+                "nickName": "BLV ANH TÀI",
+                "icon": "https://sta.vnres.co/file/head/20240609/9c8f5c2092e7aa77d7368d6309a97143.jpeg",
+                "roomNum": "406865"
+            }
+        ]
+    },
+    {
+        "subCateName": "UKR D1",
+        "hostName": "Veres",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/556ba123fdcc909668f410d392faaf4c.png",
+        "guestName": "FC Shakhtar Donetsk",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/ca7cc85467c3c4f79f99a1f6a36563e6.png",
+        "matchTime": 1727449200000,
+        "anchors": [
+            {
+                "nickName": "ĐỨC JOKER",
+                "icon": "https://sta.vnres.co/file/head/20240626/d860496a2452ab22ce5fa5eba34d4a4d.jpg",
+                "roomNum": "468304"
+            },
+            {
+                "nickName": "BLV ODIN",
+                "icon": "https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",
+                "roomNum": "9912098"
+            },
+            {
+                "nickName": "BLV FLY",
+                "icon": "https://sta.vnres.co/file/head/20240901/50fe4c2a46867d791f0de2abd36205b6.jpg",
+                "roomNum": "251797"
+            }
+        ]
+    },
+    {
+        "subCateName": "QAT D1",
+        "hostName": "Al Shamal",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/3ec07972b8fa1337c8f6aec2130f5a09.png",
+        "guestName": "Al-Ahli Doha",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/e968584dc5b1c28aeffe9e225943a77b.png",
+        "matchTime": 1727449200000,
+        "anchors": [
+            {
+                "nickName": "BLV SIMBA",
+                "icon": "https://sta.vnres.co/file/head/20240912/14fa95d73320314bda860e0ec84ca07c.jpg",
+                "roomNum": "337575"
+            },
+            {
+                "nickName": "A PÁO",
+                "icon": "https://sta.vnres.co/file/head/20240605/282c2bcf30f6aa9917537b170e5cb3bd.jpeg",
+                "roomNum": "235232"
+            },
+            {
+                "nickName": "BLV PHỞ GÀ",
+                "icon": "https://sta.vnres.co/file/head/20240906/d1cedcd53a37d5f0096ea3fae9ff8946.jpg",
+                "roomNum": "259862"
+            }
+        ]
+    },
+    {
+        "subCateName": "QAT D1",
+        "hostName": "Umm Salal",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/f10c859aa11cc433b9adb8e9ec9b99df.png",
+        "guestName": "Qatar SC",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/2336360c6279e45089b41ad8ff28c8be.png",
+        "matchTime": 1727449200000,
+        "anchors": [
+            {
+                "nickName": "BLV  TYPN",
+                "icon": "https://sta.vnres.co/file/head/20240520/dad721f9950cada5ceede5beca4d4d11.jpg",
+                "roomNum": "9912009"
+            },
+            {
+                "nickName": "BLV LONG",
+                "icon": "https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",
+                "roomNum": "9912050"
+            },
+            {
+                "nickName": "BLV KAKA",
+                "icon": "https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg",
+                "roomNum": "9912025"
+            }
+        ]
+    },
+    {
+        "subCateName": "KSA PR",
+        "hostName": "Al Nassr FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/89f5d5d63130af2a9a75a4e6d67ae1f6.png",
+        "guestName": "Al Wehda Mecca",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/e40a8e334442470038a43f40373451bb.png",
+        "matchTime": 1727450400000,
+        "anchors": [
+            {
+                "nickName": "BLV SINGER",
+                "icon": "https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",
+                "roomNum": "9912089"
+            },
+            {
+                "nickName": "BLV TAP",
+                "icon": "https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",
+                "roomNum": "9912041"
+            },
+            {
+                "nickName": "BLV DECO",
+                "icon": "https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",
+                "roomNum": "9912060"
+            },
+            {
+                "nickName": "BLV CRIS",
+                "icon": "https://sta.vnres.co/file/head/20231110/053fecd105594fbc1bbd33888e39391b.jpg",
+                "roomNum": "499765"
+            },
+            {
+                "nickName": "BLV Củ Cải",
+                "icon": "https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",
+                "roomNum": "9912091"
+            },
+            {
+                "nickName": "TẠ BIÊN GIỚI",
+                "icon": "https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",
+                "roomNum": "9912096"
+            }
+        ]
+    },
+    {
+        "subCateName": "RUS D1",
+        "hostName": "Fakel Voronezh",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/f3f3e01cb19c9b0b679504b3e2b58237.png",
+        "guestName": "Rubin Kazan",
+        "guestIcon": "https://sta.vnres.co/file/common/20240924/abb50a6802535a73587dd74f46ba85b1.png",
+        "matchTime": 1727452800000,
+        "anchors": [
+            {
+                "nickName": "BLV MONKEY",
+                "icon": "https://sta.vnres.co/file/head/20240920/758fd55329188b393203eb5f4435cd1a.jpg",
+                "roomNum": "336975"
+            },
+            {
+                "nickName": "BLV PHÁO THỦ",
+                "icon": "https://sta.vnres.co/file/head/20240912/58b16e9d6941608497b68d743d67b079.jpg",
+                "roomNum": "474787"
+            }
+        ]
+    },
+    {
+        "subCateName": "UAE LP",
+        "hostName": "Al-Wahda FC",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/9fd8fe734597d35d54f5052e4116e782.png",
+        "guestName": "Baniyas Club",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/0743f23f165ed3ca52359f901ca41e11.png",
+        "matchTime": 1727452800000,
+        "anchors": [
+            {
+                "nickName": "BLV VIP",
+                "icon": "https://sta.vnres.co/file/head/20240722/46c7ce83a08d807534130c2e8d33c028.jpg",
+                "roomNum": "491873"
+            },
+            {
+                "nickName": "CÔNG CHẤT",
+                "icon": "https://sta.vnres.co/file/head/20240325/17c3eadf5bed58f818c35aea4d181a04.jpg",
+                "roomNum": "291277"
+            }
+        ]
+    },
+    {
+        "subCateName": "FIBA EC",
+        "hostName": "Alba Fehervar",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/701fbdff3c8fada75b94b4e8dfec8a02.png",
+        "guestName": "BC Prievidza",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/18b829eb25009b9d97814c02ba3c5c8f.png",
+        "matchTime": 1727452800000,
+        "anchors": [
+            {
+                "nickName": "BLV BEAN",
+                "icon": "https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",
+                "roomNum": "166054"
+            },
+            {
+                "nickName": "KING",
+                "icon": "https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",
+                "roomNum": "9912099"
+            }
+        ]
+    },
+    {
+        "subCateName": "GER D2",
+        "hostName": "SpVgg Greuther Fürth",
+        "hostIcon": "https://sta.vnres.co/file/common/20240923/5148380f8c19259d35ce2ba359056222.png",
+        "guestName": "Fortuna Dusseldorf",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/d8bf9b08be8b171560046486811d4a29.png",
+        "matchTime": 1727454600000,
+        "anchors": [
+            {
+                "nickName": "BLV ZORO",
+                "icon": "https://sta.vnres.co/file/head/20240521/dfe2588f7e11e6ae277692de134117f8.png",
+                "roomNum": "299144"
+            },
+            {
+                "nickName": "BLV ADAM",
+                "icon": "https://sta.vnres.co/file/head/20240206/f266c2b178b3fd49f40c11c4c2526c9a.jpg",
+                "roomNum": "336303"
+            },
+            {
+                "nickName": "CR Bưởi",
+                "icon": "https://sta.vnres.co/file/head/20240407/721552ace681d169b9ad9adaf3a71c17.jpg",
+                "roomNum": "387694"
+            },
+            {
+                "nickName": "BLV TOMIA",
+                "icon": "https://sta.vnres.co/file/head/20240204/1f53f98ccfe232cc3f21173786fc61cf.jpg",
+                "roomNum": "9912008"
+            }
+        ]
+    },
+    {
+        "subCateName": "GER D2",
+        "hostName": "SSV Ulm 1846",
+        "hostIcon": "https://sta.vnres.co/file/common/20240924/2b704bfb7a0ce6c2a42844a200f6efc0.png",
+        "guestName": "Eintracht Braunschweig",
+        "guestIcon": "https://sta.vnres.co/file/common/20240923/715435d499bcf668bda854bc1ca9c7a2.png",
+        "matchTime": 1727454600000,
+        "anchors": [
+            {
+                "nickName": "SÙNG A MÚP",
+                "icon": "https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",
+                "roomNum": "9912097"
+            },
+            {
+                "nickName": "BLV ĐỐM",
+                "icon": "https://sta.vnres.co/file/head/20231105/2cde19ee6fcf4eb1fb0b0accf5569f54.jpg",
+                "roomNum": "434982"
+            },
+            {
+                "nickName": "BLV Hổ Lùn",
+                "icon": "https://sta.vnres.co/file/head/20240328/c4f0179b32d9bfa45ff40739ef836235.png",
+                "roomNum": "308080"
+            },
+            {
+                "nickName": "BLV LOGAN",
+                "icon": "https://sta.vnres.co/file/head/20231209/e2c8c85b5ecb42a20894c70b34f11648.jpg",
+                "roomNum": "9911977"
+            }
+        ]
+    },
+    {
+        "subCateName": "FIBA EC",
+        "hostName": "Anorthosis",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/3546bc830de1a34c0823cbabb3e290c3.png",
+        "guestName": "Starlites",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/9f54448accc8b27c61a76dba2f7d2477.png",
+        "matchTime": 1727454600000,
+        "anchors": [
+            {
+                "nickName": "BRIAN",
+                "icon": "https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",
+                "roomNum": "122591"
+            }
+        ]
+    },
+    {
+        "subCateName": "LNBP",
+        "hostName": "Santos",
+        "hostIcon": "https://sta.vnres.co/file/common/20240925/1c034537267fa84f29571f434758bdc0.png",
+        "guestName": "Halcones Rojos",
+        "guestIcon": "https://sta.vnres.co/file/common/20240925/53711c18f8ca4596b3f5212c576b6677.png",
+        "matchTime": 1727488800000,
+        "anchors": [
+            {
+                "nickName": "BRIAN",
+                "icon": "https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",
+                "roomNum": "122591"
+            }
+        ]
+    },
+    {
+        "subCateName": "LNBP",
+        "hostName": "Abejas",
+        "hostIcon": "https://sta.vnres.co/file/common/20240926/806e2b29eacb927716b1b9f7e48d0d36.png",
+        "guestName": "Fuerza Regia",
+        "guestIcon": "https://sta.vnres.co/file/common/20240926/616824ec2342901f684bfc3fb9e7deac.png",
+        "matchTime": 1727488800000,
+        "anchors": [
+            {
+                "nickName": "BLV DUSTIN",
+                "icon": "https://sta.vnres.co/file/head/20231019/d1d543b4257180e32ad1516d75650ba4.jpg",
+                "roomNum": "289098"
+            }
+        ]
+    },
+    {
+        "subCateName": "LNBP",
+        "hostName": "Dorados",
+        "hostIcon": "https://sta.vnres.co/file/common/20240926/94aea5b5de86d320cf173756aa721f35.png",
+        "guestName": "Correcaminos",
+        "guestIcon": "https://sta.vnres.co/file/common/20240926/c2b65027cddf3189ab1435febff17ef9.png",
+        "matchTime": 1727488800000,
+        "anchors": [
+            {
+                "nickName": "BLV HENRY",
+                "icon": "https://sta.vnres.co/file/head/20240823/932df60bfe7b6b855b402474d1f070a5.jpg",
+                "roomNum": "428392"
+            }
+        ]
+    },
+    {
+        "subCateName": "LNBP",
+        "hostName": "Astros",
+        "hostIcon": "https://sta.vnres.co/file/common/20240926/59a407698d5ae752a0daf8349d10a1ae.png",
+        "guestName": "Freseros",
+        "guestIcon": "https://sta.vnres.co/file/common/20240926/b0a6ab127ddce482af205191767af565.png",
+        "matchTime": 1727489700000,
+        "anchors": [
+            {
+                "nickName": "BLV AKIRA",
+                "icon": "https://sta.vnres.co/file/head/20231020/7d27de9a0ad8d85597b60bd69c78a7ad.jpg",
+                "roomNum": "359960"
+            }
+        ]
+    },
+    {
+        "subCateName": "NBL",
+        "hostName": "Cairns Taipans",
+        "hostIcon": "https://sta.vnres.co/file/common/20240926/6045b90123e3406f43a91886fe2bcc45.png",
+        "guestName": "Adelaide",
+        "guestIcon": "https://sta.vnres.co/file/common/20240926/424e04aa94ec3452ae7e26fd0a627b03.png",
+        "matchTime": 1727508600000,
+        "anchors": [
+            {
+                "nickName": "BRIAN",
+                "icon": "https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",
+                "roomNum": "122591"
+            },
+            {
+                "nickName": "BLV DUSTIN",
+                "icon": "https://sta.vnres.co/file/head/20231019/d1d543b4257180e32ad1516d75650ba4.jpg",
+                "roomNum": "289098"
+            },
+            {
+                "nickName": "BLV BEAN",
+                "icon": "https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",
+                "roomNum": "166054"
+            }
+        ]
+    },
+    {
+        "subCateName": "PBGC",
+        "hostName": "Converge FiberXers",
+        "hostIcon": "https://sta.vnres.co/file/common/20240926/9fd5dc87dd7c1af0f5c04ef90b265b6c.png",
+        "guestName": "San Miguel Beermen",
+        "guestIcon": "https://sta.vnres.co/file/common/20240926/4062250d8052453246ccb3ed7808d702.png",
+        "matchTime": 1727514000000,
+        "anchors": [
+            {
+                "nickName": "BLV AKIRA",
+                "icon": "https://sta.vnres.co/file/head/20231020/7d27de9a0ad8d85597b60bd69c78a7ad.jpg",
+                "roomNum": "359960"
+            },
+            {
+                "nickName": "BLV HENRY",
+                "icon": "https://sta.vnres.co/file/head/20240823/932df60bfe7b6b855b402474d1f070a5.jpg",
+                "roomNum": "428392"
+            }
+        ]
+    },
+    {
+        "subCateName": "NBL",
+        "hostName": "Tasmania JackJumpers",
+        "hostIcon": "https://sta.vnres.co/file/common/20240926/f0135327ec6289db612512ea774f6678.png",
+        "guestName": "Melbourne United",
+        "guestIcon": "https://sta.vnres.co/file/common/20240926/dbe5fe9c58d3b585a532a44f849f0643.png",
+        "matchTime": 1727517600000,
+        "anchors": [
+            {
+                "nickName": "BRIAN",
+                "icon": "https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",
+                "roomNum": "122591"
+            },
+            {
+                "nickName": "BLV DUSTIN",
+                "icon": "https://sta.vnres.co/file/head/20231019/d1d543b4257180e32ad1516d75650ba4.jpg",
+                "roomNum": "289098"
+            },
+            {
+                "nickName": "BLV BEAN",
+                "icon": "https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",
+                "roomNum": "166054"
+            }
+        ]
+    },
+    {
+        "subCateName": "VTBUL",
+        "hostName": "Nizhny Novgorod",
+        "hostIcon": "https://sta.vnres.co/file/common/20240926/a3201c77993ed56bd684b236f25d00b3.png",
+        "guestName": "Saratov",
+        "guestIcon": "https://sta.vnres.co/file/common/20240926/b1a507c7b06828dd0ef22c02a4bc31ca.png",
+        "matchTime": 1727524800000,
+        "anchors": [
+            {
+                "nickName": "BLV AKIRA",
+                "icon": "https://sta.vnres.co/file/head/20231020/7d27de9a0ad8d85597b60bd69c78a7ad.jpg",
+                "roomNum": "359960"
+            }
+        ]
+    }
+]
